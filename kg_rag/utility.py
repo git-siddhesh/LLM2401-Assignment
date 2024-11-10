@@ -311,6 +311,7 @@ def retrieve_context(question, vectorstore, embedding_function, node_context_df,
         max_number_of_high_similarity_context_per_node = int(context_volume/len(entities))
         for entity in entities:
             node_search_result = vectorstore.similarity_search_with_score(entity, k=1)
+            print(node_search_result)
             node_hits.append(node_search_result[0][0].page_content)
         question_embedding = embedding_function.embed_query(question)
         node_context_extracted = ""
