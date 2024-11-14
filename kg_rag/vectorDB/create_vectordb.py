@@ -1,5 +1,10 @@
 import pickle
-from kg_rag.utility import RecursiveCharacterTextSplitter, Chroma, SentenceTransformerEmbeddings, config_data, time
+from kg_rag.utility import (RecursiveCharacterTextSplitter, 
+                            Chroma, 
+                            # SentenceTransformerEmbeddings, 
+                            HuggingFaceEmbeddings,
+                            config_data, 
+                            time)
 
 
 DATA_PATH = config_data["VECTOR_DB_DISEASE_ENTITY_PATH"]
@@ -22,7 +27,8 @@ def create_vectordb():
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=CHUNK_SIZE, chunk_overlap=CHUNK_OVERLAP)
     docs = text_splitter.create_documents(data, metadatas=metadata_list)
     batches = [docs[i:i + BATCH_SIZE] for i in range(0, len(docs), BATCH_SIZE)]
-    vectorstore = Chroma(embedding_function=SentenceTransformerEmbeddings(model_name=SENTENCE_EMBEDDING_MODEL), 
+    # vectorstore = Chroma(embedding_function=SentenceTransformerEmbeddings(model_name=SENTENCE_EMBEDDING_MODEL), 
+    vectorstore = Chroma(embedding_function=HuggingFaceEmbeddings(model_name=SENTENCE_EMBEDDING_MODEL), 
                          persist_directory=VECTOR_DB_NAME)
     for batch in batches:
         vectorstore.add_documents(documents=batch)

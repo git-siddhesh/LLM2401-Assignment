@@ -10,9 +10,15 @@ from tenacity import retry, stop_after_attempt, wait_random_exponential
 import time
 from dotenv import load_dotenv, find_dotenv
 import torch
-from langchain import HuggingFacePipeline
-from langchain.vectorstores import Chroma
-from langchain.embeddings.sentence_transformer import SentenceTransformerEmbeddings
+# from langchain import HuggingFacePipeline
+from langchain_community.llms.huggingface_pipeline import HuggingFacePipeline
+# from langchain.vectorstores import Chroma
+# from langchain_community.vectorstores import Chroma
+from langchain_chroma import Chroma
+# from langchain.embeddings.sentence_transformer import SentenceTransformerEmbeddings
+# from langchain_community.embeddings import SentenceTransformerEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
+
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM, TextStreamer, GPTQConfig
 from kg_rag.config_loader import *
@@ -296,7 +302,8 @@ def disease_entity_extractor_v2(text, model_id):
     
 
 def load_sentence_transformer(sentence_embedding_model):
-    return SentenceTransformerEmbeddings(model_name=sentence_embedding_model)
+    # return SentenceTransformerEmbeddings(model_name=sentence_embedding_model)
+    return HuggingFaceEmbeddings(model_name=sentence_embedding_model)
 
 def load_chroma(vector_db_path, sentence_embedding_model):
     embedding_function = load_sentence_transformer(sentence_embedding_model)
@@ -307,15 +314,18 @@ def retrieve_context(question, vectorstore, embedding_function, node_context_df,
     entities = disease_entity_extractor_v2(question, model_id)
     print("entities:", entities)
     node_hits = []
+    node_context_extracted_list = []
+    node_context_extracted_dict = {}
     if entities:
         max_number_of_high_similarity_context_per_node = int(context_volume/len(entities))
         for entity in entities:
             node_search_result = vectorstore.similarity_search_with_score(entity, k=1)
-            print(node_search_result)
+            # print(node_search_result)
             node_hits.append(node_search_result[0][0].page_content)
         question_embedding = embedding_function.embed_query(question)
         node_context_extracted = ""
         for node_name in node_hits:
+            node_context_extracted_dict[node_name] = []
             if not api:
                 node_context = node_context_df[node_context_df.node_name == node_name].node_context.values[0]
             else:
@@ -334,10 +344,14 @@ def retrieve_context(question, vectorstore, embedding_function, node_context_df,
                 context_table = context_table[context_table.context.isin(high_similarity_context)]
                 context_table.loc[:, "context"] =  context_table.source + " " + context_table.predicate.str.lower() + " " + context_table.target + " and Provenance of this association is " + context_table.provenance + " and attributes associated with this association is in the following JSON format:\n " + context_table.evidence.astype('str') + "\n\n"                
                 node_context_extracted += context_table.context.str.cat(sep=' ')
+                node_context_extracted_list.append(context_table.context.str.cat(sep=' '))
+                node_context_extracted_dict[node_name].append(context_table.context.str.cat(sep=' '))
             else:
                 node_context_extracted += ". ".join(high_similarity_context)
                 node_context_extracted += ". "
-        return node_context_extracted
+                node_context_extracted_list += high_similarity_context
+                node_context_extracted_dict[node_name] += high_similarity_context
+        return node_context_extracted_dict
     else:
         node_hits = vectorstore.similarity_search_with_score(question, k=5)
         max_number_of_high_similarity_context_per_node = int(context_volume/5)
@@ -345,6 +359,8 @@ def retrieve_context(question, vectorstore, embedding_function, node_context_df,
         node_context_extracted = ""
         for node in node_hits:
             node_name = node[0].page_content
+            node_context_extracted_dict[node_name] = []
+
             if not api:
                 node_context = node_context_df[node_context_df.node_name == node_name].node_context.values[0]
             else:
@@ -363,10 +379,14 @@ def retrieve_context(question, vectorstore, embedding_function, node_context_df,
                 context_table = context_table[context_table.context.isin(high_similarity_context)]
                 context_table.loc[:, "context"] =  context_table.source + " " + context_table.predicate.str.lower() + " " + context_table.target + " and Provenance of this association is " + context_table.provenance + " and attributes associated with this association is in the following JSON format:\n " + context_table.evidence.astype('str') + "\n\n"                
                 node_context_extracted += context_table.context.str.cat(sep=' ')
+                node_context_extracted_list.append(context_table.context.str.cat(sep=' '))
+                node_context_extracted_dict[node_name].append(context_table.context.str.cat(sep=' '))
             else:
                 node_context_extracted += ". ".join(high_similarity_context)
                 node_context_extracted += ". "
-        return node_context_extracted
+                node_context_extracted_list += high_similarity_context
+                node_context_extracted_dict[node_name] += high_similarity_context
+        return node_context_extracted_dict
     
     
 def interactive(question, vectorstore, node_context_df, embedding_function_for_context_retrieval, llm_type, edge_evidence, system_prompt, api=True, llama_method="method-1"):

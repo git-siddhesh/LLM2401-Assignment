@@ -116,3 +116,8 @@ DRUG_REPURPOSING_V2: |
         Compound X TREATS Disease Y
     Answer:
         Since Disease X is a Disease Y and Compound X treats Disease Y, Disease Y can potentially be used to treat Disease X. This is a logical deduction and it warranties further validation.
+
+# Prompt Based Text Generation
+DOMAIN_KNOWLEDGE_PROMPT: |
+  You are an expert biomedical researcher. Answer the Question at the end with brevity. 
+  Given the question, generate the domain knowlege for each entity found in the question.

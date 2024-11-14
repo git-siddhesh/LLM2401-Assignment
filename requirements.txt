@@ -77,6 +77,8 @@ jupyterlab-pygments==0.2.2
 jupyterlab_server==2.25.0
 langchain
 langchain_community
+langchain-chroma>=0.1.2
+langchain-huggingface
 langcodes==3.3.0
 langsmith==0.0.40
 lit==17.0.2

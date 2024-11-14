@@ -1,0 +1,1223 @@
+question: Out of the given list, which Gene is associated with psoriasis and Takayasu's arteritis. Given list is: SHTN1, HLA-B,  SLC14A2,  BTBD9,  DTNB
+entities: ['psoriasis', "Takayasu's arteritis"]
+[(Document(metadata={'source': 'psoriasis from SPOKE knowledge graph'}, page_content='psoriasis'), 2.707602479896931e-13)]
+[(Document(metadata={'source': "Takayasu's arteritis from SPOKE knowledge graph"}, page_content="Takayasu's arteritis"), 2.064853550729634e-13)]
+question: Out of the given list, which Gene is associated with psoriasis and myelodysplastic syndrome. Given list is:  NOD2,  CHEK2, HLA-B, GCKR,  PKNOX2
+entities: ['psoriasis', 'myelodysplastic syndrome']
+[(Document(metadata={'source': 'psoriasis from SPOKE knowledge graph'}, page_content='psoriasis'), 2.707602479896931e-13)]
+[(Document(metadata={'source': 'myelodysplastic syndrome from SPOKE knowledge graph'}, page_content='myelodysplastic syndrome'), 3.516798397634746e-13)]
+question: Out of the given list, which Gene is associated with psoriasis and herpes zoster. Given list is:  MIF, HLA-B,  PLA2G6,  SCN1A, KITLG
+entities: ['psoriasis', 'herpes zoster']
+[(Document(metadata={'source': 'psoriasis from SPOKE knowledge graph'}, page_content='psoriasis'), 2.707602479896931e-13)]
+[(Document(metadata={'source': 'herpes zoster from SPOKE knowledge graph'}, page_content='herpes zoster'), 2.766038808589555e-13)]
+question: Out of the given list, which Gene is associated with psoriasis and allergic rhinitis. Given list is:  ATP2B1, HLA-B,  STAT4,  TERT, FADS1
+entities: ['psoriasis', 'allergic rhinitis']
+[(Document(metadata={'source': 'psoriasis from SPOKE knowledge graph'}, page_content='psoriasis'), 2.707602479896931e-13)]
+[(Document(metadata={'source': 'allergic rhinitis from SPOKE knowledge graph'}, page_content='allergic rhinitis'), 2.837578262637752e-13)]
+question: Out of the given list, which Gene is associated with psoriasis and diffuse large B-cell lymphoma. Given list is:  PTPRD, XBP1,  BRCA2,  DMRT1, HLA-B
+entities: ['psoriasis', 'diffuse large B-cell lymphoma']
+[(Document(metadata={'source': 'psoriasis from SPOKE knowledge graph'}, page_content='psoriasis'), 2.707602479896931e-13)]
+[(Document(metadata={'source': 'diffuse large B-cell lymphoma from SPOKE knowledge graph'}, page_content='diffuse large B-cell lymphoma'), 2.731967755319198e-13)]
+question: Out of the given list, which Gene is associated with psoriasis and psoriatic arthritis. Given list is:  IGF2BP2,  GRAMD1B, TNRC18,  SFRP4, HLA-B
+entities: ['psoriasis', 'psoriatic arthritis']
+[(Document(metadata={'source': 'psoriasis from SPOKE knowledge graph'}, page_content='psoriasis'), 2.707602479896931e-13)]
+[(Document(metadata={'source': 'psoriatic arthritis from SPOKE knowledge graph'}, page_content='psoriatic arthritis'), 2.3338752805357466e-13)]
+question: Out of the given list, which Gene is associated with membranous glomerulonephritis and autoimmune hepatitis. Given list is:  RBFOX1,  RORA, IL2RA,  BTC, HLA-DQA1
+entities: ['membranous glomerulonephritis', 'autoimmune hepatitis']
+[(Document(metadata={'source': 'membranous glomerulonephritis from SPOKE knowledge graph'}, page_content='membranous glomerulonephritis'), 3.1716063152512075e-13)]
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+question: Out of the given list, which Gene is associated with membranous glomerulonephritis and immunoglobulin alpha deficiency. Given list is: HLA-DQA1,  ADH1B,  TM6SF2, TERT,  IL2RA
+entities: ['membranous glomerulonephritis', 'immunoglobulin alpha deficiency']
+[(Document(metadata={'source': 'membranous glomerulonephritis from SPOKE knowledge graph'}, page_content='membranous glomerulonephritis'), 3.1716063152512075e-13)]
+[(Document(metadata={'source': 'immunoglobulin alpha deficiency from SPOKE knowledge graph'}, page_content='immunoglobulin alpha deficiency'), 2.682577196402164e-13)]
+question: Out of the given list, which Gene is associated with membranous glomerulonephritis and collagenous colitis. Given list is: HLA-DQA1,  STAT4, ATXN2,  GNE,  RAD51B
+entities: ['membranous glomerulonephritis', 'collagenous colitis']
+[(Document(metadata={'source': 'membranous glomerulonephritis from SPOKE knowledge graph'}, page_content='membranous glomerulonephritis'), 3.1716063152512075e-13)]
+[(Document(metadata={'source': 'collagenous colitis from SPOKE knowledge graph'}, page_content='collagenous colitis'), 5.195399232355014e-13)]
+question: Out of the given list, which Gene is associated with membranous glomerulonephritis and cutaneous lupus erythematosus. Given list is:  ZFHX3,  HLA-DQA1, EPDR1,  CRTC1, HLA-DQA1
+entities: ['membranous glomerulonephritis', 'cutaneous lupus erythematosus']
+[(Document(metadata={'source': 'membranous glomerulonephritis from SPOKE knowledge graph'}, page_content='membranous glomerulonephritis'), 3.1716063152512075e-13)]
+[(Document(metadata={'source': 'cutaneous lupus erythematosus from SPOKE knowledge graph'}, page_content='cutaneous lupus erythematosus'), 2.9584321104003664e-13)]
+question: Out of the given list, which Gene is associated with membranous glomerulonephritis and cervix carcinoma. Given list is:  PSCA, HLA-DQA1,  KALRN, HLA-DQA1,  HLA-DRB5
+entities: ['membranous glomerulonephritis', 'cervix carcinoma']
+[(Document(metadata={'source': 'membranous glomerulonephritis from SPOKE knowledge graph'}, page_content='membranous glomerulonephritis'), 3.1716063152512075e-13)]
+[(Document(metadata={'source': 'cervix carcinoma from SPOKE knowledge graph'}, page_content='cervix carcinoma'), 3.4194009928233127e-13)]
+question: Out of the given list, which Gene is associated with periodontitis and primary angle-closure glaucoma. Given list is: EPDR1,  TYR, IL23R,  STN1,  PRNP
+entities: ['periodontitis', 'primary angle-closure glaucoma']
+[(Document(metadata={'source': 'periodontitis from SPOKE knowledge graph'}, page_content='periodontitis'), 3.6055332981385635e-13)]
+[(Document(metadata={'source': 'primary angle-closure glaucoma from SPOKE knowledge graph'}, page_content='primary angle-closure glaucoma'), 3.095579619461636e-13)]
+question: Out of the given list, which Gene is associated with Hodgkin's lymphoma and Hodgkin's lymphoma, nodular sclerosis. Given list is: SHTN1,  ERAP1, GATA3,  XBP1,  FTO
+entities: ["Hodgkin's lymphoma", "Hodgkin's lymphoma, nodular sclerosis"]
+[(Document(metadata={'source': "Hodgkin's lymphoma from SPOKE knowledge graph"}, page_content="Hodgkin's lymphoma"), 3.2026180210413535e-13)]
+[(Document(metadata={'source': "Hodgkin's lymphoma, nodular sclerosis from SPOKE knowledge graph"}, page_content="Hodgkin's lymphoma, nodular sclerosis"), 2.3899534695032143e-13)]
+question: Out of the given list, which Gene is associated with limited scleroderma and allergic rhinitis. Given list is: TLR1, WNT4,  HLA-DPA1,  PSCA,  DTNB
+entities: ['scleroderma', 'allergic rhinitis']
+[(Document(metadata={'source': 'scleroderma from SPOKE knowledge graph'}, page_content='scleroderma'), 2.4723235611534555e-13)]
+[(Document(metadata={'source': 'allergic rhinitis from SPOKE knowledge graph'}, page_content='allergic rhinitis'), 2.837578262637752e-13)]
+question: Out of the given list, which Gene is associated with malaria and duodenal ulcer. Given list is:  TP53, ABO, HLA-DPA1,  ADGRV1,  GNE
+entities: ['malaria', 'duodenal ulcer']
+[(Document(metadata={'source': 'malaria from SPOKE knowledge graph'}, page_content='malaria'), 3.059713398444186e-13)]
+[(Document(metadata={'source': 'duodenal ulcer from SPOKE knowledge graph'}, page_content='duodenal ulcer'), 2.9266910075986807e-13)]
+question: Out of the given list, which Gene is associated with malaria and pancreatic carcinoma. Given list is: ABO,  HLA-DPA1,  TNRC6B,  JAK2, TERT
+entities: ['malaria', 'pancreatic carcinoma']
+[(Document(metadata={'source': 'malaria from SPOKE knowledge graph'}, page_content='malaria'), 3.059713398444186e-13)]
+[(Document(metadata={'source': 'pancreatic carcinoma from SPOKE knowledge graph'}, page_content='pancreatic carcinoma'), 5.081481025889789e-13)]
+question: Out of the given list, which Gene is associated with focal epilepsy and epilepsy. Given list is: SCN1A,  ABCG2, DTNB,  LRMDA,  CPS1
+entities: ['focal epilepsy', 'epilepsy']
+[(Document(metadata={'source': 'focal epilepsy from SPOKE knowledge graph'}, page_content='focal epilepsy'), 3.107375468047735e-13)]
+[(Document(metadata={'source': 'epilepsy from SPOKE knowledge graph'}, page_content='epilepsy'), 3.371143425176526e-13)]
+question: Out of the given list, which Gene is associated with hypertrophic cardiomyopathy and dilated cardiomyopathy. Given list is:  ZFPM2,  HLA-B,  BRCA2, MST1, MYH7
+entities: ['hypertrophic cardiomyopathy', 'dilated cardiomyopathy']
+[(Document(metadata={'source': 'hypertrophic cardiomyopathy from SPOKE knowledge graph'}, page_content='hypertrophic cardiomyopathy'), 3.056262653979708e-13)]
+[(Document(metadata={'source': 'dilated cardiomyopathy from SPOKE knowledge graph'}, page_content='dilated cardiomyopathy'), 4.985023895412444e-13)]
+question: Out of the given list, which Gene is associated with inflammatory bowel disease and ankylosing spondylitis. Given list is:  HOXD3, HNF1B,  TYR, IL23R,  TRAF3IP2
+entities: ['inflammatory bowel disease', 'ankylosing spondylitis']
+[(Document(metadata={'source': 'inflammatory bowel disease from SPOKE knowledge graph'}, page_content='inflammatory bowel disease'), 3.243541503092362e-13)]
+[(Document(metadata={'source': 'ankylosing spondylitis from SPOKE knowledge graph'}, page_content='ankylosing spondylitis'), 2.9496180888391454e-13)]
+question: Out of the given list, which Gene is associated with inflammatory bowel disease and ulcerative colitis. Given list is:  GATA3,  IL10,  HOXD3, IL23R, TNFSF15
+entities: ['inflammatory bowel disease', 'ulcerative colitis']
+[(Document(metadata={'source': 'inflammatory bowel disease from SPOKE knowledge graph'}, page_content='inflammatory bowel disease'), 3.243541503092362e-13)]
+[(Document(metadata={'source': 'ulcerative colitis from SPOKE knowledge graph'}, page_content='ulcerative colitis'), 3.090298470679459e-13)]
+question: Out of the given list, which Gene is associated with inflammatory bowel disease and Crohn's disease. Given list is:  TNRC6B,  ARMS2, RORA,  MORC4, IL23R
+entities: ['inflammatory bowel disease', "Crohn's disease"]
+[(Document(metadata={'source': 'inflammatory bowel disease from SPOKE knowledge graph'}, page_content='inflammatory bowel disease'), 3.243541503092362e-13)]
+[(Document(metadata={'source': "Crohn's disease from SPOKE knowledge graph"}, page_content="Crohn's disease"), 3.106973229041743e-13)]
+question: Out of the given list, which Gene is associated with interstitial lung disease and triple-receptor negative breast cancer. Given list is:  TERT,  FER, TERT,  PCDH15, PTK2B
+entities: ['interstitial lung disease', 'triple-receptor negative breast cancer']
+[(Document(metadata={'source': 'interstitial lung disease from SPOKE knowledge graph'}, page_content='interstitial lung disease'), 2.6451865871301994e-13)]
+[(Document(metadata={'source': 'triple-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='triple-receptor negative breast cancer'), 3.1195402164230224e-13)]
+question: Out of the given list, which Gene is associated with interstitial lung disease and idiopathic pulmonary fibrosis. Given list is:  ATXN2, ERAP1,  RBFOX1,  NANOS1, TERT
+entities: ['interstitial lung disease', 'idiopathic pulmonary fibrosis']
+[(Document(metadata={'source': 'interstitial lung disease from SPOKE knowledge graph'}, page_content='interstitial lung disease'), 2.6451865871301994e-13)]
+[(Document(metadata={'source': 'idiopathic pulmonary fibrosis from SPOKE knowledge graph'}, page_content='idiopathic pulmonary fibrosis'), 3.4484402638111644e-13)]
+question: Out of the given list, which Gene is associated with interstitial lung disease and myeloproliferative neoplasm. Given list is:  ZFPM2,  IL23R, TERT,  THADA, IL23R
+entities: ['interstitial lung disease', 'myeloproliferative neoplasm']
+[(Document(metadata={'source': 'interstitial lung disease from SPOKE knowledge graph'}, page_content='interstitial lung disease'), 2.6451865871301994e-13)]
+[(Document(metadata={'source': 'myeloproliferative neoplasm from SPOKE knowledge graph'}, page_content='myeloproliferative neoplasm'), 2.6370160395583486e-13)]
+question: Out of the given list, which Gene is associated with interstitial lung disease and central nervous system cancer. Given list is:  FGFR2, TERT,  HLA-DQA1,  GTF2I, SLC14A2
+entities: ['interstitial lung disease', 'central nervous system cancer']
+[(Document(metadata={'source': 'interstitial lung disease from SPOKE knowledge graph'}, page_content='interstitial lung disease'), 2.6451865871301994e-13)]
+[(Document(metadata={'source': 'central nervous system cancer from SPOKE knowledge graph'}, page_content='central nervous system cancer'), 3.037214577061853e-13)]
+question: Out of the given list, which Gene is associated with interstitial lung disease and estrogen-receptor negative breast cancer. Given list is: TERT,  CACNB2,  ERAP1, PRKAA1,  SHTN1
+entities: ['interstitial lung disease', 'estrogen-receptor negative breast cancer']
+[(Document(metadata={'source': 'interstitial lung disease from SPOKE knowledge graph'}, page_content='interstitial lung disease'), 2.6451865871301994e-13)]
+[(Document(metadata={'source': 'estrogen-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='estrogen-receptor negative breast cancer'), 3.0948168832332923e-13)]
+question: Out of the given list, which Gene is associated with interstitial lung disease and lung adenocarcinoma. Given list is:  CHST11, SYT14, TERT,  BARD1,  USHBP1
+entities: ['interstitial lung disease', 'lung adenocarcinoma']
+[(Document(metadata={'source': 'interstitial lung disease from SPOKE knowledge graph'}, page_content='interstitial lung disease'), 2.6451865871301994e-13)]
+[(Document(metadata={'source': 'lung adenocarcinoma from SPOKE knowledge graph'}, page_content='lung adenocarcinoma'), 2.7552293129298744e-13)]
+question: Out of the given list, which Gene is associated with interstitial lung disease and lung carcinoma. Given list is:  BTN2A1,  BRCA2,  STAT3, TERT, TFAP2B
+entities: ['interstitial lung disease', 'lung carcinoma']
+[(Document(metadata={'source': 'interstitial lung disease from SPOKE knowledge graph'}, page_content='interstitial lung disease'), 2.6451865871301994e-13)]
+[(Document(metadata={'source': 'lung carcinoma from SPOKE knowledge graph'}, page_content='lung carcinoma'), 3.0049264942641485e-13)]
+question: Out of the given list, which Gene is associated with triple-receptor negative breast cancer and interstitial lung disease. Given list is:  ADGRG6,  FGFR2,  AFAP1, TERT, YLPM1
+entities: ['triple-receptor negative breast cancer', 'interstitial lung disease']
+[(Document(metadata={'source': 'triple-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='triple-receptor negative breast cancer'), 3.1195402164230224e-13)]
+[(Document(metadata={'source': 'interstitial lung disease from SPOKE knowledge graph'}, page_content='interstitial lung disease'), 2.6451865871301994e-13)]
+question: Out of the given list, which Gene is associated with triple-receptor negative breast cancer and idiopathic pulmonary fibrosis. Given list is: CRTC1, TERT,  ATG5,  WNT10A,  ULK4
+entities: ['triple-receptor negative breast cancer', 'idiopathic pulmonary fibrosis']
+[(Document(metadata={'source': 'triple-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='triple-receptor negative breast cancer'), 3.1195402164230224e-13)]
+[(Document(metadata={'source': 'idiopathic pulmonary fibrosis from SPOKE knowledge graph'}, page_content='idiopathic pulmonary fibrosis'), 3.4484402638111644e-13)]
+question: Out of the given list, which Gene is associated with triple-receptor negative breast cancer and myeloproliferative neoplasm. Given list is:  ERAP1,  SNCA, TERT,  ULK4, ADGRG6
+entities: ['triple-receptor negative breast cancer', 'myeloproliferative neoplasm']
+[(Document(metadata={'source': 'triple-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='triple-receptor negative breast cancer'), 3.1195402164230224e-13)]
+[(Document(metadata={'source': 'myeloproliferative neoplasm from SPOKE knowledge graph'}, page_content='myeloproliferative neoplasm'), 2.6370160395583486e-13)]
+question: Out of the given list, which Gene is associated with triple-receptor negative breast cancer and central nervous system cancer. Given list is:  PLG,  HLA-DQA1, IL6,  ATXN2, TERT
+entities: ['triple-receptor negative breast cancer', 'central nervous system cancer']
+[(Document(metadata={'source': 'triple-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='triple-receptor negative breast cancer'), 3.1195402164230224e-13)]
+[(Document(metadata={'source': 'central nervous system cancer from SPOKE knowledge graph'}, page_content='central nervous system cancer'), 3.037214577061853e-13)]
+question: Out of the given list, which Gene is associated with triple-receptor negative breast cancer and estrogen-receptor negative breast cancer. Given list is: TERT,  KIT,  DGKK, ATP2B1,  IL6
+entities: ['triple-receptor negative breast cancer', 'estrogen-receptor negative breast cancer']
+[(Document(metadata={'source': 'triple-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='triple-receptor negative breast cancer'), 3.1195402164230224e-13)]
+[(Document(metadata={'source': 'estrogen-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='estrogen-receptor negative breast cancer'), 3.0948168832332923e-13)]
+question: Out of the given list, which Gene is associated with triple-receptor negative breast cancer and lung adenocarcinoma. Given list is: TERT,  POU5F1B,  PLG, IGF1R,  LRMDA
+entities: ['triple-receptor negative breast cancer', 'lung adenocarcinoma']
+[(Document(metadata={'source': 'triple-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='triple-receptor negative breast cancer'), 3.1195402164230224e-13)]
+[(Document(metadata={'source': 'lung adenocarcinoma from SPOKE knowledge graph'}, page_content='lung adenocarcinoma'), 2.7552293129298744e-13)]
+question: Out of the given list, which Gene is associated with triple-receptor negative breast cancer and lung carcinoma. Given list is:  PTPN22, C5, TERT,  FCGR2A,  FADS2
+entities: ['triple-receptor negative breast cancer', 'lung carcinoma']
+[(Document(metadata={'source': 'triple-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='triple-receptor negative breast cancer'), 3.1195402164230224e-13)]
+[(Document(metadata={'source': 'lung carcinoma from SPOKE knowledge graph'}, page_content='lung carcinoma'), 3.0049264942641485e-13)]
+question: Out of the given list, which Gene is associated with lung small cell carcinoma and opiate dependence. Given list is:  CFH,  CLPTM1L, TERT,  FAT3, ADGRV1
+entities: ['lung small cell carcinoma', 'opiate dependence']
+[(Document(metadata={'source': 'lung small cell carcinoma from SPOKE knowledge graph'}, page_content='lung small cell carcinoma'), 3.3262119187443817e-13)]
+[(Document(metadata={'source': 'opiate dependence from SPOKE knowledge graph'}, page_content='opiate dependence'), 2.55855991775078e-13)]
+question: Out of the given list, which Gene is associated with lung small cell carcinoma and cervix carcinoma. Given list is: TERT, ADGRV1,  PHGDH,  CACNA1D,  TFAP2B
+entities: ['lung small cell carcinoma', 'cervix carcinoma']
+[(Document(metadata={'source': 'lung small cell carcinoma from SPOKE knowledge graph'}, page_content='lung small cell carcinoma'), 3.3262119187443817e-13)]
+[(Document(metadata={'source': 'cervix carcinoma from SPOKE knowledge graph'}, page_content='cervix carcinoma'), 3.4194009928233127e-13)]
+question: Out of the given list, which Gene is associated with male breast cancer and urticaria. Given list is:  BABAM1, RAD51B,  PHGDH, ABO,  TERT
+entities: ['male breast cancer', 'urticaria']
+[(Document(metadata={'source': 'male breast cancer from SPOKE knowledge graph'}, page_content='male breast cancer'), 2.546067740319402e-13)]
+[(Document(metadata={'source': 'urticaria from SPOKE knowledge graph'}, page_content='urticaria'), 2.98893125961347e-13)]
+question: Out of the given list, which Gene is associated with idiopathic pulmonary fibrosis and interstitial lung disease. Given list is:  COL22A1,  KIF1B, TERT,  CLPTM1L, HLA-DQA1
+entities: ['idiopathic pulmonary fibrosis', 'interstitial lung disease']
+[(Document(metadata={'source': 'idiopathic pulmonary fibrosis from SPOKE knowledge graph'}, page_content='idiopathic pulmonary fibrosis'), 3.4484402638111644e-13)]
+[(Document(metadata={'source': 'interstitial lung disease from SPOKE knowledge graph'}, page_content='interstitial lung disease'), 2.6451865871301994e-13)]
+question: Out of the given list, which Gene is associated with idiopathic pulmonary fibrosis and triple-receptor negative breast cancer. Given list is:  RELN, TERT,  PLA2R1, DNMT3A,  ABO
+entities: ['idiopathic pulmonary fibrosis', 'triple-receptor negative breast cancer']
+[(Document(metadata={'source': 'idiopathic pulmonary fibrosis from SPOKE knowledge graph'}, page_content='idiopathic pulmonary fibrosis'), 3.4484402638111644e-13)]
+[(Document(metadata={'source': 'triple-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='triple-receptor negative breast cancer'), 3.1195402164230224e-13)]
+question: Out of the given list, which Gene is associated with idiopathic pulmonary fibrosis and myeloproliferative neoplasm. Given list is: STAT4,  UMOD,  ADGRV1,  UMPS, TERT
+entities: ['idiopathic pulmonary fibrosis', 'myeloproliferative neoplasm']
+[(Document(metadata={'source': 'idiopathic pulmonary fibrosis from SPOKE knowledge graph'}, page_content='idiopathic pulmonary fibrosis'), 3.4484402638111644e-13)]
+[(Document(metadata={'source': 'myeloproliferative neoplasm from SPOKE knowledge graph'}, page_content='myeloproliferative neoplasm'), 2.6370160395583486e-13)]
+question: Out of the given list, which Gene is associated with idiopathic pulmonary fibrosis and central nervous system cancer. Given list is: LOXL1, TERT,  KALRN,  RP1,  IL6
+entities: ['idiopathic pulmonary fibrosis', 'central nervous system cancer']
+[(Document(metadata={'source': 'idiopathic pulmonary fibrosis from SPOKE knowledge graph'}, page_content='idiopathic pulmonary fibrosis'), 3.4484402638111644e-13)]
+[(Document(metadata={'source': 'central nervous system cancer from SPOKE knowledge graph'}, page_content='central nervous system cancer'), 3.037214577061853e-13)]
+question: Out of the given list, which Gene is associated with idiopathic pulmonary fibrosis and estrogen-receptor negative breast cancer. Given list is: TERT,  TNFSF15, NTM,  IGF2BP2,  STN1
+entities: ['idiopathic pulmonary fibrosis', 'estrogen-receptor negative breast cancer']
+[(Document(metadata={'source': 'idiopathic pulmonary fibrosis from SPOKE knowledge graph'}, page_content='idiopathic pulmonary fibrosis'), 3.4484402638111644e-13)]
+[(Document(metadata={'source': 'estrogen-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='estrogen-receptor negative breast cancer'), 3.0948168832332923e-13)]
+question: Out of the given list, which Gene is associated with idiopathic pulmonary fibrosis and lung adenocarcinoma. Given list is: HLA-B,  CFH,  PSCA, TERT,  USHBP1
+entities: ['idiopathic pulmonary fibrosis', 'lung adenocarcinoma']
+[(Document(metadata={'source': 'idiopathic pulmonary fibrosis from SPOKE knowledge graph'}, page_content='idiopathic pulmonary fibrosis'), 3.4484402638111644e-13)]
+[(Document(metadata={'source': 'lung adenocarcinoma from SPOKE knowledge graph'}, page_content='lung adenocarcinoma'), 2.7552293129298744e-13)]
+question: Out of the given list, which Gene is associated with idiopathic pulmonary fibrosis and lung carcinoma. Given list is: ABCG2,  SULT1B1,  ERAP1, TERT,  CHST11
+entities: ['idiopathic pulmonary fibrosis', 'lung carcinoma']
+[(Document(metadata={'source': 'idiopathic pulmonary fibrosis from SPOKE knowledge graph'}, page_content='idiopathic pulmonary fibrosis'), 3.4484402638111644e-13)]
+[(Document(metadata={'source': 'lung carcinoma from SPOKE knowledge graph'}, page_content='lung carcinoma'), 3.0049264942641485e-13)]
+question: Out of the given list, which Gene is associated with thyroid gland papillary carcinoma and hypothyroidism. Given list is:  CLPTM1L,  MYBPC3,  FAM227B, VAV3, PRNP
+entities: ['thyroid gland papillary carcinoma', 'hypothyroidism']
+[(Document(metadata={'source': 'thyroid gland papillary carcinoma from SPOKE knowledge graph'}, page_content='thyroid gland papillary carcinoma'), 2.6943210032839837e-13)]
+[(Document(metadata={'source': 'hypothyroidism from SPOKE knowledge graph'}, page_content='hypothyroidism'), 4.4343898670216875e-13)]
+question: Out of the given list, which Gene is associated with thyroid gland papillary carcinoma and differentiated thyroid gland carcinoma. Given list is:  ACOXL, POU5F1B, VAV3,  PSCA,  ZFPM2
+entities: ['thyroid gland papillary carcinoma', 'differentiated thyroid gland carcinoma']
+[(Document(metadata={'source': 'thyroid gland papillary carcinoma from SPOKE knowledge graph'}, page_content='thyroid gland papillary carcinoma'), 2.6943210032839837e-13)]
+[(Document(metadata={'source': 'differentiated thyroid gland carcinoma from SPOKE knowledge graph'}, page_content='differentiated thyroid gland carcinoma'), 3.2619165615116463e-13)]
+question: Out of the given list, which Gene is associated with mature B-cell neoplasm and androgenic alopecia. Given list is:  HLA-DPA1,  PRKAG2, ERAP1, SLC14A2,  FER
+entities: ['mature B-cell neoplasm', 'androgenic alopecia']
+[(Document(metadata={'source': 'mature B-cell neoplasm from SPOKE knowledge graph'}, page_content='mature B-cell neoplasm'), 3.2162982130032325e-13)]
+[(Document(metadata={'source': 'androgenic alopecia from SPOKE knowledge graph'}, page_content='androgenic alopecia'), 3.244173321908378e-13)]
+question: Out of the given list, which Gene is associated with mature B-cell neoplasm and cocaine dependence. Given list is:  TLR1, SLC14A2,  SCN1A,  IL12RB2, PLG
+entities: ['mature B-cell neoplasm', 'cocaine dependence']
+[(Document(metadata={'source': 'mature B-cell neoplasm from SPOKE knowledge graph'}, page_content='mature B-cell neoplasm'), 3.2162982130032325e-13)]
+[(Document(metadata={'source': 'cocaine dependence from SPOKE knowledge graph'}, page_content='cocaine dependence'), 2.2705657341283436e-13)]
+question: Out of the given list, which Gene is associated with hepatitis B and lymphoma. Given list is:  KALRN, HLA-DQB2,  ALDH1A2, STAT4,  FBN1
+entities: ['hepatitis B', 'lymphoma']
+[(Document(metadata={'source': 'hepatitis B from SPOKE knowledge graph'}, page_content='hepatitis B'), 3.045807421379887e-13)]
+[(Document(metadata={'source': 'lymphoma from SPOKE knowledge graph'}, page_content='lymphoma'), 3.54470549050398e-13)]
+question: Out of the given list, which Gene is associated with autoimmune hepatitis and membranous glomerulonephritis. Given list is:  STAT4, HLA-DQA1, TNFSF13,  CFH,  KITLG
+entities: ['autoimmune hepatitis', 'membranous glomerulonephritis']
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+[(Document(metadata={'source': 'membranous glomerulonephritis from SPOKE knowledge graph'}, page_content='membranous glomerulonephritis'), 3.1716063152512075e-13)]
+question: Out of the given list, which Gene is associated with autoimmune hepatitis and oral cavity cancer. Given list is:  CACNA2D1, HLF,  SULT1B1, HLA-DQB1,  DLEU7
+entities: ['autoimmune hepatitis', 'oral cavity cancer']
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+[(Document(metadata={'source': 'oral cavity cancer from SPOKE knowledge graph'}, page_content='oral cavity cancer'), 2.1999982673277796e-13)]
+question: Out of the given list, which Gene is associated with autoimmune hepatitis and immunoglobulin alpha deficiency. Given list is: HLA-DQA1,  HLA-DQB1,  UCK2,  PLA2R1, HLA-DQA1
+entities: ['autoimmune hepatitis', 'immunoglobulin alpha deficiency']
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+[(Document(metadata={'source': 'immunoglobulin alpha deficiency from SPOKE knowledge graph'}, page_content='immunoglobulin alpha deficiency'), 2.682577196402164e-13)]
+question: Out of the given list, which Gene is associated with autoimmune hepatitis and collagenous colitis. Given list is:  KALRN,  TERT, PLA2R1,  NANOS1, HLA-DQA1
+entities: ['autoimmune hepatitis', 'collagenous colitis']
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+[(Document(metadata={'source': 'collagenous colitis from SPOKE knowledge graph'}, page_content='collagenous colitis'), 5.195399232355014e-13)]
+question: Out of the given list, which Gene is associated with autoimmune hepatitis and oropharynx cancer. Given list is:  EYA2,  LOXL1,  BTBD9, TMEM71, HLA-DQB1
+entities: ['autoimmune hepatitis', 'oropharynx cancer']
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+[(Document(metadata={'source': 'oropharynx cancer from SPOKE knowledge graph'}, page_content='oropharynx cancer'), 2.2830844745129475e-13)]
+question: Out of the given list, which Gene is associated with autoimmune hepatitis and nephrotic syndrome. Given list is:  IGF1R, HLA-DQB1,  IL2RA,  SLC17A4, EPDR1
+entities: ['autoimmune hepatitis', 'nephrotic syndrome']
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+[(Document(metadata={'source': 'nephrotic syndrome from SPOKE knowledge graph'}, page_content='nephrotic syndrome'), 4.067321837403909e-13)]
+question: Out of the given list, which Gene is associated with autoimmune hepatitis and rheumatic heart disease. Given list is:  KAT2B, HLA-DQB1,  GSDMB,  ALDH1A2, THADA
+entities: ['autoimmune hepatitis', 'rheumatic heart disease']
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+[(Document(metadata={'source': 'rheumatic heart disease from SPOKE knowledge graph'}, page_content='rheumatic heart disease'), 3.007091917053145e-13)]
+question: Out of the given list, which Gene is associated with autoimmune hepatitis and cutaneous lupus erythematosus. Given list is:  PTPN22, HLA-DQA1,  CACNB2, CCDC33,  IL2RA
+entities: ['autoimmune hepatitis', 'cutaneous lupus erythematosus']
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+[(Document(metadata={'source': 'cutaneous lupus erythematosus from SPOKE knowledge graph'}, page_content='cutaneous lupus erythematosus'), 2.9584321104003664e-13)]
+question: Out of the given list, which Gene is associated with autoimmune hepatitis and cervix carcinoma. Given list is:  FAT3,  HLA-DPA1, HLA-DQA1, CACNA1S,  CACNA2D1
+entities: ['autoimmune hepatitis', 'cervix carcinoma']
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+[(Document(metadata={'source': 'cervix carcinoma from SPOKE knowledge graph'}, page_content='cervix carcinoma'), 3.4194009928233127e-13)]
+question: Out of the given list, which Gene is associated with primary angle-closure glaucoma and periodontitis. Given list is: EPDR1,  ADH1B,  USHBP1,  POU5F1B, SHTN1
+entities: ['primary angle-closure glaucoma', 'periodontitis']
+[(Document(metadata={'source': 'primary angle-closure glaucoma from SPOKE knowledge graph'}, page_content='primary angle-closure glaucoma'), 3.095579619461636e-13)]
+[(Document(metadata={'source': 'periodontitis from SPOKE knowledge graph'}, page_content='periodontitis'), 3.6055332981385635e-13)]
+question: Out of the given list, which Gene is associated with non-alcoholic fatty liver disease and liver cirrhosis. Given list is:  IL23R, RP1,  PSCA, PNPLA3,  PLG
+entities: ['non-alcoholic fatty liver disease', 'liver cirrhosis']
+[(Document(metadata={'source': 'non-alcoholic fatty liver disease from SPOKE knowledge graph'}, page_content='non-alcoholic fatty liver disease'), 2.302214950795911e-13)]
+[(Document(metadata={'source': 'liver cirrhosis from SPOKE knowledge graph'}, page_content='liver cirrhosis'), 3.104990223268267e-13)]
+question: Out of the given list, which Gene is associated with non-alcoholic fatty liver disease and non-alcoholic steatohepatitis. Given list is: C5AR1, PNPLA3,  ABCG2,  BTC,  UMPS
+entities: ['non-alcoholic fatty liver disease', 'non-alcoholic steatohepatitis']
+[(Document(metadata={'source': 'non-alcoholic fatty liver disease from SPOKE knowledge graph'}, page_content='non-alcoholic fatty liver disease'), 2.302214950795911e-13)]
+[(Document(metadata={'source': 'non-alcoholic steatohepatitis from SPOKE knowledge graph'}, page_content='non-alcoholic steatohepatitis'), 2.9362927020382124e-13)]
+question: Out of the given list, which Gene is associated with hypothyroidism and thyroid gland papillary carcinoma. Given list is:  PRKACB, FAM13A, VAV3,  ZFPM2,  TERT
+entities: ['hypothyroidism', 'thyroid gland papillary carcinoma']
+[(Document(metadata={'source': 'hypothyroidism from SPOKE knowledge graph'}, page_content='hypothyroidism'), 4.4343898670216875e-13)]
+[(Document(metadata={'source': 'thyroid gland papillary carcinoma from SPOKE knowledge graph'}, page_content='thyroid gland papillary carcinoma'), 2.6943210032839837e-13)]
+question: Out of the given list, which Gene is associated with hypothyroidism and differentiated thyroid gland carcinoma. Given list is:  PNPLA3,  RELN,  RP1, STAT4, VAV3
+entities: ['hypothyroidism', 'thyroid gland carcinoma']
+[(Document(metadata={'source': 'hypothyroidism from SPOKE knowledge graph'}, page_content='hypothyroidism'), 4.4343898670216875e-13)]
+[(Document(metadata={'source': 'thyroid gland carcinoma from SPOKE knowledge graph'}, page_content='thyroid gland carcinoma'), 2.5610438249279444e-13)]
+question: Out of the given list, which Gene is associated with liver cirrhosis and non-alcoholic fatty liver disease. Given list is:  HYKK, PLA2G6,  ADH1B, PNPLA3,  RGS14
+entities: ['liver cirrhosis', 'non-alcoholic fatty liver disease']
+[(Document(metadata={'source': 'liver cirrhosis from SPOKE knowledge graph'}, page_content='liver cirrhosis'), 3.104990223268267e-13)]
+[(Document(metadata={'source': 'non-alcoholic fatty liver disease from SPOKE knowledge graph'}, page_content='non-alcoholic fatty liver disease'), 2.302214950795911e-13)]
+question: Out of the given list, which Gene is associated with liver cirrhosis and head and neck cancer. Given list is: CACNA2D1,  HLA-DQA1,  ADGRV1, YLPM1,  STN1
+entities: ['liver cirrhosis', 'head and neck cancer']
+[(Document(metadata={'source': 'liver cirrhosis from SPOKE knowledge graph'}, page_content='liver cirrhosis'), 3.104990223268267e-13)]
+[(Document(metadata={'source': 'head and neck cancer from SPOKE knowledge graph'}, page_content='head and neck cancer'), 2.1265270360587563e-13)]
+question: Out of the given list, which Gene is associated with liver cirrhosis and non-alcoholic steatohepatitis. Given list is:  SCN1A,  EYA2,  CACNA2D1, HBB, PNPLA3
+entities: ['liver cirrhosis', 'non-alcoholic steatohepatitis']
+[(Document(metadata={'source': 'liver cirrhosis from SPOKE knowledge graph'}, page_content='liver cirrhosis'), 3.104990223268267e-13)]
+[(Document(metadata={'source': 'non-alcoholic steatohepatitis from SPOKE knowledge graph'}, page_content='non-alcoholic steatohepatitis'), 2.9362927020382124e-13)]
+question: Out of the given list, which Gene is associated with liver cirrhosis and uveal melanoma. Given list is:  VAV3,  PSCA, CACNA2D1,  NTM, SULT1B1
+entities: ['liver cirrhosis', 'uveal melanoma']
+[(Document(metadata={'source': 'liver cirrhosis from SPOKE knowledge graph'}, page_content='liver cirrhosis'), 3.104990223268267e-13)]
+[(Document(metadata={'source': 'uveal melanoma from SPOKE knowledge graph'}, page_content='uveal melanoma'), 3.2993193680580513e-13)]
+question: Out of the given list, which Gene is associated with Takayasu's arteritis and psoriasis. Given list is:  ABCG2, HLA-B,  CACNA1C, RGS14,  PTPN22
+entities: ["Takayasu's arteritis", 'psoriasis']
+[(Document(metadata={'source': "Takayasu's arteritis from SPOKE knowledge graph"}, page_content="Takayasu's arteritis"), 2.064853550729634e-13)]
+[(Document(metadata={'source': 'psoriasis from SPOKE knowledge graph'}, page_content='psoriasis'), 2.707602479896931e-13)]
+question: Out of the given list, which Gene is associated with Takayasu's arteritis and myelodysplastic syndrome. Given list is:  CCDC33,  PCDH15, RBFOX1, HLA-B,  ERAP1
+entities: ["Takayasu's arteritis", 'myelodysplastic syndrome']
+[(Document(metadata={'source': "Takayasu's arteritis from SPOKE knowledge graph"}, page_content="Takayasu's arteritis"), 2.064853550729634e-13)]
+[(Document(metadata={'source': 'myelodysplastic syndrome from SPOKE knowledge graph'}, page_content='myelodysplastic syndrome'), 3.516798397634746e-13)]
+question: Out of the given list, which Gene is associated with Takayasu's arteritis and herpes zoster. Given list is: HLA-B,  STAT6,  HLA-DQA1, HBB,  CFH
+entities: ["Takayasu's arteritis", 'herpes zoster']
+[(Document(metadata={'source': "Takayasu's arteritis from SPOKE knowledge graph"}, page_content="Takayasu's arteritis"), 2.064853550729634e-13)]
+[(Document(metadata={'source': 'herpes zoster from SPOKE knowledge graph'}, page_content='herpes zoster'), 2.766038808589555e-13)]
+question: Out of the given list, which Gene is associated with Takayasu's arteritis and allergic rhinitis. Given list is: HLA-DQB2,  CRTC1,  FAM13A,  TNRC6B, HLA-B
+entities: ["Takayasu's arteritis", 'allergic rhinitis']
+[(Document(metadata={'source': "Takayasu's arteritis from SPOKE knowledge graph"}, page_content="Takayasu's arteritis"), 2.064853550729634e-13)]
+[(Document(metadata={'source': 'allergic rhinitis from SPOKE knowledge graph'}, page_content='allergic rhinitis'), 2.837578262637752e-13)]
+question: Out of the given list, which Gene is associated with Takayasu's arteritis and diffuse large B-cell lymphoma. Given list is: HLA-B,  PLG,  BRCA2,  PNPLA3, PBX2
+entities: ["Takayasu's arteritis", 'diffuse large B-cell lymphoma']
+[(Document(metadata={'source': "Takayasu's arteritis from SPOKE knowledge graph"}, page_content="Takayasu's arteritis"), 2.064853550729634e-13)]
+[(Document(metadata={'source': 'diffuse large B-cell lymphoma from SPOKE knowledge graph'}, page_content='diffuse large B-cell lymphoma'), 2.731967755319198e-13)]
+question: Out of the given list, which Gene is associated with Takayasu's arteritis and psoriatic arthritis. Given list is:  RELN, HLA-B,  HLA-B,  SNTB1, SCN1A
+entities: ["Takayasu's arteritis", 'psoriatic arthritis']
+[(Document(metadata={'source': "Takayasu's arteritis from SPOKE knowledge graph"}, page_content="Takayasu's arteritis"), 2.064853550729634e-13)]
+[(Document(metadata={'source': 'psoriatic arthritis from SPOKE knowledge graph'}, page_content='psoriatic arthritis'), 2.3338752805357466e-13)]
+question: Out of the given list, which Gene is associated with oral cavity cancer and autoimmune hepatitis. Given list is:  KAT2B, TTLL5, HLA-DQB1,  HOXD3,  SAMM50
+entities: ['oral cavity cancer', 'autoimmune hepatitis']
+[(Document(metadata={'source': 'oral cavity cancer from SPOKE knowledge graph'}, page_content='oral cavity cancer'), 2.1999982673277796e-13)]
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+question: Out of the given list, which Gene is associated with oral cavity cancer and oropharynx cancer. Given list is:  GCKR, HLA-DQB1, CACNA1S,  TNFSF15,  RAD51B
+entities: ['oral cavity cancer', 'oropharynx cancer']
+[(Document(metadata={'source': 'oral cavity cancer from SPOKE knowledge graph'}, page_content='oral cavity cancer'), 2.1999982673277796e-13)]
+[(Document(metadata={'source': 'oropharynx cancer from SPOKE knowledge graph'}, page_content='oropharynx cancer'), 2.2830844745129475e-13)]
+question: Out of the given list, which Gene is associated with oral cavity cancer and nephrotic syndrome. Given list is: ARMS2, HLA-DQB1,  LOXL1,  HLA-B,  ACOXL
+entities: ['oral cavity cancer', 'nephrotic syndrome']
+[(Document(metadata={'source': 'oral cavity cancer from SPOKE knowledge graph'}, page_content='oral cavity cancer'), 2.1999982673277796e-13)]
+[(Document(metadata={'source': 'nephrotic syndrome from SPOKE knowledge graph'}, page_content='nephrotic syndrome'), 4.067321837403909e-13)]
+question: Out of the given list, which Gene is associated with oral cavity cancer and rheumatic heart disease. Given list is: HLA-DQB1,  HBB, TNNT2,  ITPA,  HLA-DQB1
+entities: ['oral cavity cancer', 'rheumatic heart disease']
+[(Document(metadata={'source': 'oral cavity cancer from SPOKE knowledge graph'}, page_content='oral cavity cancer'), 2.1999982673277796e-13)]
+[(Document(metadata={'source': 'rheumatic heart disease from SPOKE knowledge graph'}, page_content='rheumatic heart disease'), 3.007091917053145e-13)]
+question: Out of the given list, which Gene is associated with oral cavity cancer and pancreatic carcinoma. Given list is: CLPTM1L,  CASZ1, AKAP6,  HERC2,  IL6
+entities: ['oral cavity cancer', 'pancreatic carcinoma']
+[(Document(metadata={'source': 'oral cavity cancer from SPOKE knowledge graph'}, page_content='oral cavity cancer'), 2.1999982673277796e-13)]
+[(Document(metadata={'source': 'pancreatic carcinoma from SPOKE knowledge graph'}, page_content='pancreatic carcinoma'), 5.081481025889789e-13)]
+question: Out of the given list, which Gene is associated with immunoglobulin alpha deficiency and membranous glomerulonephritis. Given list is: HLA-DQA1, HLA-DQB1,  MYH7,  TNRC6B,  CRTC1
+entities: ['immunoglobulin alpha deficiency', 'membranous glomerulonephritis']
+[(Document(metadata={'source': 'immunoglobulin alpha deficiency from SPOKE knowledge graph'}, page_content='immunoglobulin alpha deficiency'), 2.682577196402164e-13)]
+[(Document(metadata={'source': 'membranous glomerulonephritis from SPOKE knowledge graph'}, page_content='membranous glomerulonephritis'), 3.1716063152512075e-13)]
+question: Out of the given list, which Gene is associated with immunoglobulin alpha deficiency and autoimmune hepatitis. Given list is:  SLC14A2,  PRKAG2, HLA-DQA1, HLA-DQA1,  PLG
+entities: ['immunoglobulin alpha deficiency', 'autoimmune hepatitis']
+[(Document(metadata={'source': 'immunoglobulin alpha deficiency from SPOKE knowledge graph'}, page_content='immunoglobulin alpha deficiency'), 2.682577196402164e-13)]
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+question: Out of the given list, which Gene is associated with immunoglobulin alpha deficiency and collagenous colitis. Given list is: GATA3, HLA-DQA1,  SNTB1,  CHEK2,  HLA-DRB5
+entities: ['immunoglobulin alpha deficiency', 'collagenous colitis']
+[(Document(metadata={'source': 'immunoglobulin alpha deficiency from SPOKE knowledge graph'}, page_content='immunoglobulin alpha deficiency'), 2.682577196402164e-13)]
+[(Document(metadata={'source': 'collagenous colitis from SPOKE knowledge graph'}, page_content='collagenous colitis'), 5.195399232355014e-13)]
+question: Out of the given list, which Gene is associated with immunoglobulin alpha deficiency and cutaneous lupus erythematosus. Given list is:  PLA2R1,  DTNB,  FER, HLA-DQA1, PINX1
+entities: ['immunoglobulin alpha deficiency', 'cutaneous lupus erythematosus']
+[(Document(metadata={'source': 'immunoglobulin alpha deficiency from SPOKE knowledge graph'}, page_content='immunoglobulin alpha deficiency'), 2.682577196402164e-13)]
+[(Document(metadata={'source': 'cutaneous lupus erythematosus from SPOKE knowledge graph'}, page_content='cutaneous lupus erythematosus'), 2.9584321104003664e-13)]
+question: Out of the given list, which Gene is associated with immunoglobulin alpha deficiency and cervix carcinoma. Given list is:  CLPTM1L,  STAT3, HLA-DQA1,  ABO, HLA-DPB1
+entities: ['immunoglobulin alpha deficiency', 'cervix carcinoma']
+[(Document(metadata={'source': 'immunoglobulin alpha deficiency from SPOKE knowledge graph'}, page_content='immunoglobulin alpha deficiency'), 2.682577196402164e-13)]
+[(Document(metadata={'source': 'cervix carcinoma from SPOKE knowledge graph'}, page_content='cervix carcinoma'), 3.4194009928233127e-13)]
+question: Out of the given list, which Gene is associated with myelodysplastic syndrome and psoriasis. Given list is: VAV3,  TERT,  CLPTM1L,  PTPN22, HLA-B
+entities: ['myelodysplastic syndrome', 'psoriasis']
+[(Document(metadata={'source': 'myelodysplastic syndrome from SPOKE knowledge graph'}, page_content='myelodysplastic syndrome'), 3.516798397634746e-13)]
+[(Document(metadata={'source': 'psoriasis from SPOKE knowledge graph'}, page_content='psoriasis'), 2.707602479896931e-13)]
+question: Out of the given list, which Gene is associated with myelodysplastic syndrome and Takayasu's arteritis. Given list is: BTN3A1,  AKAP6,  CACNA2D1, HLA-B,  CACNA1A
+entities: ['myelodysplastic syndrome', "Takayasu's arteritis"]
+[(Document(metadata={'source': 'myelodysplastic syndrome from SPOKE knowledge graph'}, page_content='myelodysplastic syndrome'), 3.516798397634746e-13)]
+[(Document(metadata={'source': "Takayasu's arteritis from SPOKE knowledge graph"}, page_content="Takayasu's arteritis"), 2.064853550729634e-13)]
+question: Out of the given list, which Gene is associated with myelodysplastic syndrome and herpes zoster. Given list is:  DTNB, HLA-B, ATP2B1,  SLC14A2,  KALRN
+entities: ['myelodysplastic syndrome', 'herpes zoster']
+[(Document(metadata={'source': 'myelodysplastic syndrome from SPOKE knowledge graph'}, page_content='myelodysplastic syndrome'), 3.516798397634746e-13)]
+[(Document(metadata={'source': 'herpes zoster from SPOKE knowledge graph'}, page_content='herpes zoster'), 2.766038808589555e-13)]
+question: Out of the given list, which Gene is associated with myelodysplastic syndrome and allergic rhinitis. Given list is:  ARMS2,  CHEK2, HLA-B,  BTN3A1, GSDMB
+entities: ['myelodysplastic syndrome', 'allergic rhinitis']
+[(Document(metadata={'source': 'myelodysplastic syndrome from SPOKE knowledge graph'}, page_content='myelodysplastic syndrome'), 3.516798397634746e-13)]
+[(Document(metadata={'source': 'allergic rhinitis from SPOKE knowledge graph'}, page_content='allergic rhinitis'), 2.837578262637752e-13)]
+question: Out of the given list, which Gene is associated with myelodysplastic syndrome and diffuse large B-cell lymphoma. Given list is:  MIF,  TDP2, TMEM71,  HLA-DQA1, HLA-B
+entities: ['myelodysplastic syndrome', 'diffuse large B-cell lymphoma']
+[(Document(metadata={'source': 'myelodysplastic syndrome from SPOKE knowledge graph'}, page_content='myelodysplastic syndrome'), 3.516798397634746e-13)]
+[(Document(metadata={'source': 'diffuse large B-cell lymphoma from SPOKE knowledge graph'}, page_content='diffuse large B-cell lymphoma'), 2.731967755319198e-13)]
+question: Out of the given list, which Gene is associated with myelodysplastic syndrome and psoriatic arthritis. Given list is:  MST1,  BTNL2, HLA-B,  HERC2, HLA-DQB1
+entities: ['myelodysplastic syndrome', 'psoriatic arthritis']
+[(Document(metadata={'source': 'myelodysplastic syndrome from SPOKE knowledge graph'}, page_content='myelodysplastic syndrome'), 3.516798397634746e-13)]
+[(Document(metadata={'source': 'psoriatic arthritis from SPOKE knowledge graph'}, page_content='psoriatic arthritis'), 2.3338752805357466e-13)]
+question: Out of the given list, which Gene is associated with differentiated thyroid gland carcinoma and thyroid gland papillary carcinoma. Given list is:  ITPA, CHEK2,  CRTC1,  PLG, VAV3
+entities: ['thyroid gland carcinoma', 'thyroid gland papillary carcinoma']
+[(Document(metadata={'source': 'thyroid gland carcinoma from SPOKE knowledge graph'}, page_content='thyroid gland carcinoma'), 2.5610438249279444e-13)]
+[(Document(metadata={'source': 'thyroid gland papillary carcinoma from SPOKE knowledge graph'}, page_content='thyroid gland papillary carcinoma'), 2.6943210032839837e-13)]
+question: Out of the given list, which Gene is associated with differentiated thyroid gland carcinoma and hypothyroidism. Given list is:  ERAP1,  HLA-DQA1, VAV3, PINX1,  PCDH15
+entities: ['differentiated thyroid gland carcinoma', 'hypothyroidism']
+[(Document(metadata={'source': 'differentiated thyroid gland carcinoma from SPOKE knowledge graph'}, page_content='differentiated thyroid gland carcinoma'), 3.2619165615116463e-13)]
+[(Document(metadata={'source': 'hypothyroidism from SPOKE knowledge graph'}, page_content='hypothyroidism'), 4.4343898670216875e-13)]
+question: Out of the given list, which Gene is associated with Barrett's esophagus and esophagus adenocarcinoma. Given list is:  HLA-DQB1, CRTC1, HLA-B,  CFH,  MYBPC3
+entities: ["Barrett's esophagus", 'esophagus adenocarcinoma']
+[(Document(metadata={'source': "Barrett's esophagus from SPOKE knowledge graph"}, page_content="Barrett's esophagus"), 2.2495758511195674e-13)]
+[(Document(metadata={'source': 'esophagus adenocarcinoma from SPOKE knowledge graph'}, page_content='esophagus adenocarcinoma'), 2.9608664153281394e-13)]
+question: Out of the given list, which Gene is associated with ankylosing spondylitis and inflammatory bowel disease. Given list is:  LPP, UCK2,  YLPM1,  DAB2IP, IL23R
+entities: ['ankylosing spondylitis', 'inflammatory bowel disease']
+[(Document(metadata={'source': 'ankylosing spondylitis from SPOKE knowledge graph'}, page_content='ankylosing spondylitis'), 2.9496180888391454e-13)]
+[(Document(metadata={'source': 'inflammatory bowel disease from SPOKE knowledge graph'}, page_content='inflammatory bowel disease'), 3.243541503092362e-13)]
+question: Out of the given list, which Gene is associated with ankylosing spondylitis and ulcerative colitis. Given list is:  KIT, SAMM50, IL23R,  PSCA,  HLA-DQB1
+entities: ['ankylosing spondylitis', 'ulcerative colitis']
+[(Document(metadata={'source': 'ankylosing spondylitis from SPOKE knowledge graph'}, page_content='ankylosing spondylitis'), 2.9496180888391454e-13)]
+[(Document(metadata={'source': 'ulcerative colitis from SPOKE knowledge graph'}, page_content='ulcerative colitis'), 3.090298470679459e-13)]
+question: Out of the given list, which Gene is associated with ankylosing spondylitis and anterior uveitis. Given list is:  CFH,  XBP1, ERAP1, SYT14,  HNF1B
+entities: ['ankylosing spondylitis', 'anterior uveitis']
+[(Document(metadata={'source': 'ankylosing spondylitis from SPOKE knowledge graph'}, page_content='ankylosing spondylitis'), 2.9496180888391454e-13)]
+[(Document(metadata={'source': 'anterior uveitis from SPOKE knowledge graph'}, page_content='anterior uveitis'), 2.7806833983838597e-13)]
+question: Out of the given list, which Gene is associated with ankylosing spondylitis and Crohn's disease. Given list is: IL23R,  HLA-DQB1,  TNRC18, EYA2,  SLC2A9
+entities: ['ankylosing spondylitis', "Crohn's disease"]
+[(Document(metadata={'source': 'ankylosing spondylitis from SPOKE knowledge graph'}, page_content='ankylosing spondylitis'), 2.9496180888391454e-13)]
+[(Document(metadata={'source': "Crohn's disease from SPOKE knowledge graph"}, page_content="Crohn's disease"), 3.106973229041743e-13)]
+question: Out of the given list, which Gene is associated with rheumatoid arthritis and myositis. Given list is:  STAT3, BARD1, PTPN22,  PRKN,  C5AR1
+entities: ['rheumatoid arthritis', 'myositis']
+[(Document(metadata={'source': 'rheumatoid arthritis from SPOKE knowledge graph'}, page_content='rheumatoid arthritis'), 2.938967157747191e-13)]
+[(Document(metadata={'source': 'myositis from SPOKE knowledge graph'}, page_content='myositis'), 2.7004746637644683e-13)]
+question: Out of the given list, which Gene is associated with neuromyelitis optica and neurotic disorder. Given list is: TNRC18,  PCDH7,  CASZ1,  GATA3, TNXB
+entities: ['neuromyelitis optica', 'neurotic disorder']
+[(Document(metadata={'source': 'neuromyelitis optica from SPOKE knowledge graph'}, page_content='neuromyelitis optica'), 3.835267064870862e-13)]
+[(Document(metadata={'source': 'neurotic disorder from SPOKE knowledge graph'}, page_content='neurotic disorder'), 2.3955501211175845e-13)]
+question: Out of the given list, which Gene is associated with collagenous colitis and membranous glomerulonephritis. Given list is:  PHACTR1,  CASZ1, PNPLA3, HLA-DQA1,  ATP2B1
+entities: ['collagenous colitis', 'membranous glomerulonephritis']
+[(Document(metadata={'source': 'collagenous colitis from SPOKE knowledge graph'}, page_content='collagenous colitis'), 5.195399232355014e-13)]
+[(Document(metadata={'source': 'membranous glomerulonephritis from SPOKE knowledge graph'}, page_content='membranous glomerulonephritis'), 3.1716063152512075e-13)]
+question: Out of the given list, which Gene is associated with collagenous colitis and autoimmune hepatitis. Given list is:  CACNA1D, HLA-DQA1,  AKAP6, MST1,  NTM
+entities: ['collagenous colitis', 'autoimmune hepatitis']
+[(Document(metadata={'source': 'collagenous colitis from SPOKE knowledge graph'}, page_content='collagenous colitis'), 5.195399232355014e-13)]
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+question: Out of the given list, which Gene is associated with collagenous colitis and immunoglobulin alpha deficiency. Given list is:  EPAS1,  MYH7, RELN, HLA-DQA1,  KIT
+entities: ['collagenous colitis', 'immunoglobulin alpha deficiency']
+[(Document(metadata={'source': 'collagenous colitis from SPOKE knowledge graph'}, page_content='collagenous colitis'), 5.195399232355014e-13)]
+[(Document(metadata={'source': 'immunoglobulin alpha deficiency from SPOKE knowledge graph'}, page_content='immunoglobulin alpha deficiency'), 2.682577196402164e-13)]
+question: Out of the given list, which Gene is associated with collagenous colitis and cutaneous lupus erythematosus. Given list is:  MYH7, HLA-DQA1, HLA-DQA1,  TERT,  BARD1
+entities: ['collagenous colitis', 'cutaneous lupus erythematosus']
+[(Document(metadata={'source': 'collagenous colitis from SPOKE knowledge graph'}, page_content='collagenous colitis'), 5.195399232355014e-13)]
+[(Document(metadata={'source': 'cutaneous lupus erythematosus from SPOKE knowledge graph'}, page_content='cutaneous lupus erythematosus'), 2.9584321104003664e-13)]
+question: Out of the given list, which Gene is associated with collagenous colitis and cervix carcinoma. Given list is:  NEURL1, TERT, HLA-DQA1,  TERT,  SLC17A4
+entities: ['collagenous colitis', 'cervix carcinoma']
+[(Document(metadata={'source': 'collagenous colitis from SPOKE knowledge graph'}, page_content='collagenous colitis'), 5.195399232355014e-13)]
+[(Document(metadata={'source': 'cervix carcinoma from SPOKE knowledge graph'}, page_content='cervix carcinoma'), 3.4194009928233127e-13)]
+question: Out of the given list, which Gene is associated with dengue hemorrhagic fever and intracranial aneurysm. Given list is: RP1,  TLR1,  UCK2,  GNE, FADS1
+entities: ['dengue hemorrhagic fever', 'intracranial aneurysm']
+[(Document(metadata={'source': 'dengue hemorrhagic fever from SPOKE knowledge graph'}, page_content='dengue hemorrhagic fever'), 2.2548950825030528e-13)]
+[(Document(metadata={'source': 'intracranial aneurysm from SPOKE knowledge graph'}, page_content='intracranial aneurysm'), 3.886160599049504e-13)]
+question: Out of the given list, which Gene is associated with dengue hemorrhagic fever and wheat allergy. Given list is: RBFOX1,  EPDR1, BABAM1,  PTPN22,  WNT4
+entities: ['dengue hemorrhagic fever', 'wheat allergy']
+[(Document(metadata={'source': 'dengue hemorrhagic fever from SPOKE knowledge graph'}, page_content='dengue hemorrhagic fever'), 2.2548950825030528e-13)]
+[(Document(metadata={'source': 'wheat allergy from SPOKE knowledge graph'}, page_content='wheat allergy'), 2.5325515339361115e-13)]
+question: Out of the given list, which Gene is associated with neurotic disorder and neuromyelitis optica. Given list is: STAT4,  LACC1, TNXB,  UMPS,  SFRP4
+entities: ['neurotic disorder', 'neuromyelitis optica']
+[(Document(metadata={'source': 'neurotic disorder from SPOKE knowledge graph'}, page_content='neurotic disorder'), 2.3955501211175845e-13)]
+[(Document(metadata={'source': 'neuromyelitis optica from SPOKE knowledge graph'}, page_content='neuromyelitis optica'), 3.835267064870862e-13)]
+question: Out of the given list, which Gene is associated with head and neck cancer and liver cirrhosis. Given list is: TFAP2B,  TERT,  USHBP1, CACNA2D1,  CRTC1
+entities: ['head and neck cancer', 'liver cirrhosis']
+[(Document(metadata={'source': 'head and neck cancer from SPOKE knowledge graph'}, page_content='head and neck cancer'), 2.1265270360587563e-13)]
+[(Document(metadata={'source': 'liver cirrhosis from SPOKE knowledge graph'}, page_content='liver cirrhosis'), 3.104990223268267e-13)]
+question: Out of the given list, which Gene is associated with head and neck cancer and uveal melanoma. Given list is:  ABO, CACNA2D1,  PSCA, TERT,  SULT1B1
+entities: ['head and neck cancer', 'uveal melanoma']
+[(Document(metadata={'source': 'head and neck cancer from SPOKE knowledge graph'}, page_content='head and neck cancer'), 2.1265270360587563e-13)]
+[(Document(metadata={'source': 'uveal melanoma from SPOKE knowledge graph'}, page_content='uveal melanoma'), 3.2993193680580513e-13)]
+question: Out of the given list, which Gene is associated with age related macular degeneration and Kuhnt-Junius degeneration. Given list is: VAV3,  UGT1A8, CFH,  TP53,  HLA-DQA1
+entities: ['age related macular degeneration', 'Kuhnt-Junius degeneration']
+[(Document(metadata={'source': 'age related macular degeneration from SPOKE knowledge graph'}, page_content='age related macular degeneration'), 2.9678118144450816e-13)]
+[(Document(metadata={'source': 'Mayer-Rokitansky-Kuster-Hauser syndrome from SPOKE knowledge graph'}, page_content='Mayer-Rokitansky-Kuster-Hauser syndrome'), 1.176513433456421)]
+question: Out of the given list, which Gene is associated with age related macular degeneration and kidney disease. Given list is:  RAD51B, CFH, C1orf127,  CASZ1,  HAAO
+entities: ['age related macular degeneration', 'kidney disease']
+[(Document(metadata={'source': 'age related macular degeneration from SPOKE knowledge graph'}, page_content='age related macular degeneration'), 2.9678118144450816e-13)]
+[(Document(metadata={'source': 'kidney disease from SPOKE knowledge graph'}, page_content='kidney disease'), 3.062145263917071e-13)]
+question: Out of the given list, which Gene is associated with Kuhnt-Junius degeneration and age related macular degeneration. Given list is: CFH,  CACNA2D1, STAT4,  LACC1,  SFRP4
+entities: ['Kuhnt-Junius degeneration', 'age related macular degeneration']
+[(Document(metadata={'source': 'Mayer-Rokitansky-Kuster-Hauser syndrome from SPOKE knowledge graph'}, page_content='Mayer-Rokitansky-Kuster-Hauser syndrome'), 1.176513433456421)]
+[(Document(metadata={'source': 'age related macular degeneration from SPOKE knowledge graph'}, page_content='age related macular degeneration'), 2.9678118144450816e-13)]
+question: Out of the given list, which Gene is associated with Kuhnt-Junius degeneration and kidney disease. Given list is:  PRKACB,  MUC5B, TERT, CFH,  CACNA2D1
+entities: ['Kuhnt-Junius degeneration', 'kidney disease']
+[(Document(metadata={'source': 'Mayer-Rokitansky-Kuster-Hauser syndrome from SPOKE knowledge graph'}, page_content='Mayer-Rokitansky-Kuster-Hauser syndrome'), 1.176513433456421)]
+[(Document(metadata={'source': 'kidney disease from SPOKE knowledge graph'}, page_content='kidney disease'), 3.062145263917071e-13)]
+question: Out of the given list, which Gene is associated with lymphoma and hepatitis B. Given list is: HLA-DQB2,  YLPM1,  MTTP,  HAAO, PTPN22
+entities: ['lymphoma', 'hepatitis B']
+[(Document(metadata={'source': 'lymphoma from SPOKE knowledge graph'}, page_content='lymphoma'), 3.54470549050398e-13)]
+[(Document(metadata={'source': 'hepatitis B from SPOKE knowledge graph'}, page_content='hepatitis B'), 3.045807421379887e-13)]
+question: Out of the given list, which Gene is associated with herpes zoster and psoriasis. Given list is:  HLA-DQB1,  HOXD3,  FAM227B, DNMT3A, HLA-B
+entities: ['herpes zoster', 'psoriasis']
+[(Document(metadata={'source': 'herpes zoster from SPOKE knowledge graph'}, page_content='herpes zoster'), 2.766038808589555e-13)]
+[(Document(metadata={'source': 'psoriasis from SPOKE knowledge graph'}, page_content='psoriasis'), 2.707602479896931e-13)]
+question: Out of the given list, which Gene is associated with herpes zoster and Takayasu's arteritis. Given list is:  FAM227B, PRKN,  CSNK2B, HLA-B,  FGFR2
+entities: ['herpes zoster', "Takayasu's arteritis"]
+[(Document(metadata={'source': 'herpes zoster from SPOKE knowledge graph'}, page_content='herpes zoster'), 2.766038808589555e-13)]
+[(Document(metadata={'source': "Takayasu's arteritis from SPOKE knowledge graph"}, page_content="Takayasu's arteritis"), 2.064853550729634e-13)]
+question: Out of the given list, which Gene is associated with herpes zoster and myelodysplastic syndrome. Given list is: HLA-B,  TMEM71, KITLG,  PTPRD,  AHR
+entities: ['herpes zoster', 'myelodysplastic syndrome']
+[(Document(metadata={'source': 'herpes zoster from SPOKE knowledge graph'}, page_content='herpes zoster'), 2.766038808589555e-13)]
+[(Document(metadata={'source': 'myelodysplastic syndrome from SPOKE knowledge graph'}, page_content='myelodysplastic syndrome'), 3.516798397634746e-13)]
+question: Out of the given list, which Gene is associated with herpes zoster and allergic rhinitis. Given list is:  HLA-B, HLA-B, IGF2BP2,  CLPTM1L,  CACNA2D1
+entities: ['herpes zoster', 'allergic rhinitis']
+[(Document(metadata={'source': 'herpes zoster from SPOKE knowledge graph'}, page_content='herpes zoster'), 2.766038808589555e-13)]
+[(Document(metadata={'source': 'allergic rhinitis from SPOKE knowledge graph'}, page_content='allergic rhinitis'), 2.837578262637752e-13)]
+question: Out of the given list, which Gene is associated with herpes zoster and diffuse large B-cell lymphoma. Given list is: HLA-B,  ATXN2, SLC14A2,  EYA2,  POU5F1B
+entities: ['herpes zoster', 'diffuse large B-cell lymphoma']
+[(Document(metadata={'source': 'herpes zoster from SPOKE knowledge graph'}, page_content='herpes zoster'), 2.766038808589555e-13)]
+[(Document(metadata={'source': 'diffuse large B-cell lymphoma from SPOKE knowledge graph'}, page_content='diffuse large B-cell lymphoma'), 2.731967755319198e-13)]
+question: Out of the given list, which Gene is associated with herpes zoster and psoriatic arthritis. Given list is: HLA-B,  ADGRV1, CPS1,  SULT1B1,  ATG5
+entities: ['herpes zoster', 'psoriatic arthritis']
+[(Document(metadata={'source': 'herpes zoster from SPOKE knowledge graph'}, page_content='herpes zoster'), 2.766038808589555e-13)]
+[(Document(metadata={'source': 'psoriatic arthritis from SPOKE knowledge graph'}, page_content='psoriatic arthritis'), 2.3338752805357466e-13)]
+question: Out of the given list, which Gene is associated with duodenal ulcer and malaria. Given list is: IGF1R,  HLA-DQA1,  USHBP1, ABO,  GTF2I
+entities: ['duodenal ulcer', 'malaria']
+[(Document(metadata={'source': 'duodenal ulcer from SPOKE knowledge graph'}, page_content='duodenal ulcer'), 2.9266910075986807e-13)]
+[(Document(metadata={'source': 'malaria from SPOKE knowledge graph'}, page_content='malaria'), 3.059713398444186e-13)]
+question: Out of the given list, which Gene is associated with duodenal ulcer and atrophic gastritis. Given list is:  SLC17A4,  GATA3, MST1, PSCA,  SCN1A
+entities: ['duodenal ulcer', 'atrophic gastritis']
+[(Document(metadata={'source': 'duodenal ulcer from SPOKE knowledge graph'}, page_content='duodenal ulcer'), 2.9266910075986807e-13)]
+[(Document(metadata={'source': 'atrophic gastritis from SPOKE knowledge graph'}, page_content='atrophic gastritis'), 3.724208441635568e-13)]
+question: Out of the given list, which Gene is associated with duodenal ulcer and pancreatic carcinoma. Given list is:  YLPM1,  CFH, ABO, KALRN,  STAT6
+entities: ['duodenal ulcer', 'pancreatic carcinoma']
+[(Document(metadata={'source': 'duodenal ulcer from SPOKE knowledge graph'}, page_content='duodenal ulcer'), 2.9266910075986807e-13)]
+[(Document(metadata={'source': 'pancreatic carcinoma from SPOKE knowledge graph'}, page_content='pancreatic carcinoma'), 5.081481025889789e-13)]
+question: Out of the given list, which Gene is associated with duodenal ulcer and gastric fundus cancer. Given list is:  CACNA1S,  MUC5B, FBN1, PSCA,  BTC
+entities: ['duodenal ulcer', 'gastric fundus cancer']
+[(Document(metadata={'source': 'duodenal ulcer from SPOKE knowledge graph'}, page_content='duodenal ulcer'), 2.9266910075986807e-13)]
+[(Document(metadata={'source': 'gastric fundus cancer from SPOKE knowledge graph'}, page_content='gastric fundus cancer'), 3.535820182649918e-13)]
+question: Out of the given list, which Gene is associated with non-alcoholic steatohepatitis and non-alcoholic fatty liver disease. Given list is: HLA-DQB2,  ZFPM2,  KALRN, PNPLA3,  DENND1A
+entities: ['non-alcoholic steatohepatitis', 'non-alcoholic fatty liver disease']
+[(Document(metadata={'source': 'non-alcoholic steatohepatitis from SPOKE knowledge graph'}, page_content='non-alcoholic steatohepatitis'), 2.9362927020382124e-13)]
+[(Document(metadata={'source': 'non-alcoholic fatty liver disease from SPOKE knowledge graph'}, page_content='non-alcoholic fatty liver disease'), 2.302214950795911e-13)]
+question: Out of the given list, which Gene is associated with non-alcoholic steatohepatitis and liver cirrhosis. Given list is: PNPLA3,  SULT1B1,  KIT,  AHR, FAM227B
+entities: ['non-alcoholic steatohepatitis', 'liver cirrhosis']
+[(Document(metadata={'source': 'non-alcoholic steatohepatitis from SPOKE knowledge graph'}, page_content='non-alcoholic steatohepatitis'), 2.9362927020382124e-13)]
+[(Document(metadata={'source': 'liver cirrhosis from SPOKE knowledge graph'}, page_content='liver cirrhosis'), 3.104990223268267e-13)]
+question: Out of the given list, which Gene is associated with oropharynx cancer and autoimmune hepatitis. Given list is: HLA-DQB1,  TNXB,  FBN1, C9,  BTN3A1
+entities: ['oropharynx cancer', 'autoimmune hepatitis']
+[(Document(metadata={'source': 'oropharynx cancer from SPOKE knowledge graph'}, page_content='oropharynx cancer'), 2.2830844745129475e-13)]
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+question: Out of the given list, which Gene is associated with oropharynx cancer and oral cavity cancer. Given list is: MYBPC3,  KIF1B,  DGKK, HLA-DQB1,  HLA-B
+entities: ['oropharynx cancer', 'oral cavity cancer']
+[(Document(metadata={'source': 'oropharynx cancer from SPOKE knowledge graph'}, page_content='oropharynx cancer'), 2.2830844745129475e-13)]
+[(Document(metadata={'source': 'oral cavity cancer from SPOKE knowledge graph'}, page_content='oral cavity cancer'), 2.1999982673277796e-13)]
+question: Out of the given list, which Gene is associated with oropharynx cancer and nephrotic syndrome. Given list is:  FER, HLA-DQB1,  FTO, SLC2A9,  RAD51B
+entities: ['oropharynx cancer', 'nephrotic syndrome']
+[(Document(metadata={'source': 'oropharynx cancer from SPOKE knowledge graph'}, page_content='oropharynx cancer'), 2.2830844745129475e-13)]
+[(Document(metadata={'source': 'nephrotic syndrome from SPOKE knowledge graph'}, page_content='nephrotic syndrome'), 4.067321837403909e-13)]
+question: Out of the given list, which Gene is associated with oropharynx cancer and rheumatic heart disease. Given list is: DENND1A, HLA-DQB1,  VRK2,  TERT,  CACNA1A
+entities: ['oropharynx cancer', 'rheumatic heart disease']
+[(Document(metadata={'source': 'oropharynx cancer from SPOKE knowledge graph'}, page_content='oropharynx cancer'), 2.2830844745129475e-13)]
+[(Document(metadata={'source': 'rheumatic heart disease from SPOKE knowledge graph'}, page_content='rheumatic heart disease'), 3.007091917053145e-13)]
+question: Out of the given list, which Gene is associated with ulcerative colitis and inflammatory bowel disease. Given list is: SAMD9L, IL23R,  GATA3,  DNMT3A,  RAD51B
+entities: ['ulcerative colitis', 'inflammatory bowel disease']
+[(Document(metadata={'source': 'ulcerative colitis from SPOKE knowledge graph'}, page_content='ulcerative colitis'), 3.090298470679459e-13)]
+[(Document(metadata={'source': 'inflammatory bowel disease from SPOKE knowledge graph'}, page_content='inflammatory bowel disease'), 3.243541503092362e-13)]
+question: Out of the given list, which Gene is associated with ulcerative colitis and ankylosing spondylitis. Given list is:  ALDH1A2, IL23R,  DTNB, SNTB1,  MYH7
+entities: ['ulcerative colitis', 'ankylosing spondylitis']
+[(Document(metadata={'source': 'ulcerative colitis from SPOKE knowledge graph'}, page_content='ulcerative colitis'), 3.090298470679459e-13)]
+[(Document(metadata={'source': 'ankylosing spondylitis from SPOKE knowledge graph'}, page_content='ankylosing spondylitis'), 2.9496180888391454e-13)]
+question: Out of the given list, which Gene is associated with ulcerative colitis and Crohn's disease. Given list is: ZFHX3,  OPTN,  EML4, IL23R,  STN1
+entities: ['ulcerative colitis', "Crohn's disease"]
+[(Document(metadata={'source': 'ulcerative colitis from SPOKE knowledge graph'}, page_content='ulcerative colitis'), 3.090298470679459e-13)]
+[(Document(metadata={'source': "Crohn's disease from SPOKE knowledge graph"}, page_content="Crohn's disease"), 3.106973229041743e-13)]
+question: Out of the given list, which Gene is associated with nephrotic syndrome and autoimmune hepatitis. Given list is:  TNIP1,  CACNA1C, SLC2A9, HLA-DQB1,  CSNK2B
+entities: ['nephrotic syndrome', 'autoimmune hepatitis']
+[(Document(metadata={'source': 'nephrotic syndrome from SPOKE knowledge graph'}, page_content='nephrotic syndrome'), 4.067321837403909e-13)]
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+question: Out of the given list, which Gene is associated with nephrotic syndrome and oral cavity cancer. Given list is:  CRTC1, PLG,  AHR,  SLC14A2, HLA-DQB1
+entities: ['nephrotic syndrome', 'oral cavity cancer']
+[(Document(metadata={'source': 'nephrotic syndrome from SPOKE knowledge graph'}, page_content='nephrotic syndrome'), 4.067321837403909e-13)]
+[(Document(metadata={'source': 'oral cavity cancer from SPOKE knowledge graph'}, page_content='oral cavity cancer'), 2.1999982673277796e-13)]
+question: Out of the given list, which Gene is associated with nephrotic syndrome and oropharynx cancer. Given list is:  PRKAG2,  SYT14, VAV3, HLA-DQB1,  PNPLA3
+entities: ['nephrotic syndrome', 'oropharynx cancer']
+[(Document(metadata={'source': 'nephrotic syndrome from SPOKE knowledge graph'}, page_content='nephrotic syndrome'), 4.067321837403909e-13)]
+[(Document(metadata={'source': 'oropharynx cancer from SPOKE knowledge graph'}, page_content='oropharynx cancer'), 2.2830844745129475e-13)]
+question: Out of the given list, which Gene is associated with nephrotic syndrome and rheumatic heart disease. Given list is: GSDMB,  KALRN,  SNTB1, HLA-DQB1,  CRTC1
+entities: ['nephrotic syndrome', 'rheumatic heart disease']
+[(Document(metadata={'source': 'nephrotic syndrome from SPOKE knowledge graph'}, page_content='nephrotic syndrome'), 4.067321837403909e-13)]
+[(Document(metadata={'source': 'rheumatic heart disease from SPOKE knowledge graph'}, page_content='rheumatic heart disease'), 3.007091917053145e-13)]
+question: Out of the given list, which Gene is associated with myositis and rheumatoid arthritis. Given list is:  C9, RORA,  TERT,  HLA-B, PTPN22
+entities: ['myositis', 'rheumatoid arthritis']
+[(Document(metadata={'source': 'myositis from SPOKE knowledge graph'}, page_content='myositis'), 2.7004746637644683e-13)]
+[(Document(metadata={'source': 'rheumatoid arthritis from SPOKE knowledge graph'}, page_content='rheumatoid arthritis'), 2.938967157747191e-13)]
+question: Out of the given list, which Gene is associated with myositis and systemic scleroderma. Given list is:  BTNL2, DMRT1, STAT4,  CLPTM1L,  SLC2A9
+entities: ['myositis', 'systemic scleroderma']
+[(Document(metadata={'source': 'myositis from SPOKE knowledge graph'}, page_content='myositis'), 2.7004746637644683e-13)]
+[(Document(metadata={'source': 'systemic scleroderma from SPOKE knowledge graph'}, page_content='systemic scleroderma'), 3.10571121771297e-13)]
+question: Out of the given list, which Gene is associated with myositis and Sjogren's syndrome. Given list is: STAT4,  FTO, ACOXL,  MORC4,  TNXB
+entities: ['myositis', "Sjogren's syndrome"]
+[(Document(metadata={'source': 'myositis from SPOKE knowledge graph'}, page_content='myositis'), 2.7004746637644683e-13)]
+[(Document(metadata={'source': "Sjogren's syndrome from SPOKE knowledge graph"}, page_content="Sjogren's syndrome"), 3.001877175654033e-13)]
+question: Out of the given list, which Gene is associated with intracranial aneurysm and dengue hemorrhagic fever. Given list is: RP1, IGF1R,  BABAM1,  DLEU7,  ATG5
+entities: ['intracranial aneurysm', 'dengue hemorrhagic fever']
+[(Document(metadata={'source': 'intracranial aneurysm from SPOKE knowledge graph'}, page_content='intracranial aneurysm'), 3.886160599049504e-13)]
+[(Document(metadata={'source': 'dengue hemorrhagic fever from SPOKE knowledge graph'}, page_content='dengue hemorrhagic fever'), 2.2548950825030528e-13)]
+question: Out of the given list, which Gene is associated with squamous cell carcinoma and estrogen-receptor negative breast cancer. Given list is: BRCA2,  RBFOX1, UCK2,  PNPLA3,  RAD51B
+entities: ['squamous cell carcinoma', 'estrogen-receptor negative breast cancer']
+[(Document(metadata={'source': 'squamous cell carcinoma from SPOKE knowledge graph'}, page_content='squamous cell carcinoma'), 4.3875471832099944e-13)]
+[(Document(metadata={'source': 'estrogen-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='estrogen-receptor negative breast cancer'), 3.0948168832332923e-13)]
+question: Out of the given list, which Gene is associated with squamous cell carcinoma and lung squamous cell carcinoma. Given list is:  ARMS2, BRCA2,  BTBD9,  IL6, ALDH1A2
+entities: ['squamous cell carcinoma', 'lung squamous cell carcinoma']
+[(Document(metadata={'source': 'squamous cell carcinoma from SPOKE knowledge graph'}, page_content='squamous cell carcinoma'), 4.3875471832099944e-13)]
+[(Document(metadata={'source': 'lung squamous cell carcinoma from SPOKE knowledge graph'}, page_content='lung squamous cell carcinoma'), 3.136673863354811e-13)]
+question: Out of the given list, which Gene is associated with androgenic alopecia and mature B-cell neoplasm. Given list is:  TM6SF2, HLA-B, SLC14A2,  PHGDH,  TTLL5
+entities: ['androgenic alopecia', 'mature B-cell neoplasm']
+[(Document(metadata={'source': 'androgenic alopecia from SPOKE knowledge graph'}, page_content='androgenic alopecia'), 3.244173321908378e-13)]
+[(Document(metadata={'source': 'mature B-cell neoplasm from SPOKE knowledge graph'}, page_content='mature B-cell neoplasm'), 3.2162982130032325e-13)]
+question: Out of the given list, which Gene is associated with androgenic alopecia and cocaine dependence. Given list is: GSDMB, SLC14A2,  ATXN2,  PNPLA3,  PRKACB
+entities: ['androgenic alopecia', 'cocaine dependence']
+[(Document(metadata={'source': 'androgenic alopecia from SPOKE knowledge graph'}, page_content='androgenic alopecia'), 3.244173321908378e-13)]
+[(Document(metadata={'source': 'cocaine dependence from SPOKE knowledge graph'}, page_content='cocaine dependence'), 2.2705657341283436e-13)]
+question: Out of the given list, which Gene is associated with sclerosing cholangitis and endometrial cancer. Given list is:  FADS2,  RP1, ATXN2,  VRK2, PLA2G6
+entities: ['sclerosing cholangitis', 'endometrial cancer']
+[(Document(metadata={'source': 'sclerosing cholangitis from SPOKE knowledge graph'}, page_content='sclerosing cholangitis'), 2.5141390705418765e-13)]
+[(Document(metadata={'source': 'endometrial cancer from SPOKE knowledge graph'}, page_content='endometrial cancer'), 3.146884608364736e-13)]
+question: Out of the given list, which Gene is associated with cocaine dependence and mature B-cell neoplasm. Given list is:  CHST11,  GSDMB, ERAP1,  TP63, SLC14A2
+entities: ['cocaine dependence', 'mature B-cell neoplasm']
+[(Document(metadata={'source': 'cocaine dependence from SPOKE knowledge graph'}, page_content='cocaine dependence'), 2.2705657341283436e-13)]
+[(Document(metadata={'source': 'mature B-cell neoplasm from SPOKE knowledge graph'}, page_content='mature B-cell neoplasm'), 3.2162982130032325e-13)]
+question: Out of the given list, which Gene is associated with cocaine dependence and androgenic alopecia. Given list is:  ATG5,  ADGRV1, NEURL1, SLC14A2,  HLA-DPB1
+entities: ['cocaine dependence', 'androgenic alopecia']
+[(Document(metadata={'source': 'cocaine dependence from SPOKE knowledge graph'}, page_content='cocaine dependence'), 2.2705657341283436e-13)]
+[(Document(metadata={'source': 'androgenic alopecia from SPOKE knowledge graph'}, page_content='androgenic alopecia'), 3.244173321908378e-13)]
+question: Out of the given list, which Gene is associated with epilepsy and focal epilepsy. Given list is:  NEURL1, SCN1A, HAAO,  CLDN14,  MYBPC3
+entities: ['epilepsy', 'focal epilepsy']
+[(Document(metadata={'source': 'epilepsy from SPOKE knowledge graph'}, page_content='epilepsy'), 3.371143425176526e-13)]
+[(Document(metadata={'source': 'focal epilepsy from SPOKE knowledge graph'}, page_content='focal epilepsy'), 3.107375468047735e-13)]
+question: Out of the given list, which Gene is associated with myeloproliferative neoplasm and interstitial lung disease. Given list is:  LRMDA, TERT,  CLDN14, UCK2,  STAT3
+entities: ['myeloproliferative neoplasm', 'interstitial lung disease']
+[(Document(metadata={'source': 'myeloproliferative neoplasm from SPOKE knowledge graph'}, page_content='myeloproliferative neoplasm'), 2.6370160395583486e-13)]
+[(Document(metadata={'source': 'interstitial lung disease from SPOKE knowledge graph'}, page_content='interstitial lung disease'), 2.6451865871301994e-13)]
+question: Out of the given list, which Gene is associated with myeloproliferative neoplasm and triple-receptor negative breast cancer. Given list is:  ABO, SCN1A, TERT,  TGM2,  COL22A1
+entities: ['myeloproliferative neoplasm', 'triple-receptor negative breast cancer']
+[(Document(metadata={'source': 'myeloproliferative neoplasm from SPOKE knowledge graph'}, page_content='myeloproliferative neoplasm'), 2.6370160395583486e-13)]
+[(Document(metadata={'source': 'triple-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='triple-receptor negative breast cancer'), 3.1195402164230224e-13)]
+question: Out of the given list, which Gene is associated with myeloproliferative neoplasm and idiopathic pulmonary fibrosis. Given list is:  FBN1, TERT,  DLEU7,  IL2RA, PTK2B
+entities: ['myeloproliferative neoplasm', 'idiopathic pulmonary fibrosis']
+[(Document(metadata={'source': 'myeloproliferative neoplasm from SPOKE knowledge graph'}, page_content='myeloproliferative neoplasm'), 2.6370160395583486e-13)]
+[(Document(metadata={'source': 'idiopathic pulmonary fibrosis from SPOKE knowledge graph'}, page_content='idiopathic pulmonary fibrosis'), 3.4484402638111644e-13)]
+question: Out of the given list, which Gene is associated with myeloproliferative neoplasm and central nervous system cancer. Given list is: WNT4, TERT,  VAV3,  ADH1B,  GATA3
+entities: ['myeloproliferative neoplasm', 'central nervous system cancer']
+[(Document(metadata={'source': 'myeloproliferative neoplasm from SPOKE knowledge graph'}, page_content='myeloproliferative neoplasm'), 2.6370160395583486e-13)]
+[(Document(metadata={'source': 'central nervous system cancer from SPOKE knowledge graph'}, page_content='central nervous system cancer'), 3.037214577061853e-13)]
+question: Out of the given list, which Gene is associated with myeloproliferative neoplasm and estrogen-receptor negative breast cancer. Given list is:  STAT4,  MYH7, BTBD9,  ERAP1, TERT
+entities: ['myeloproliferative neoplasm', 'estrogen-receptor negative breast cancer']
+[(Document(metadata={'source': 'myeloproliferative neoplasm from SPOKE knowledge graph'}, page_content='myeloproliferative neoplasm'), 2.6370160395583486e-13)]
+[(Document(metadata={'source': 'estrogen-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='estrogen-receptor negative breast cancer'), 3.0948168832332923e-13)]
+question: Out of the given list, which Gene is associated with myeloproliferative neoplasm and lung adenocarcinoma. Given list is:  SLC17A4,  STAT6, HLA-DQB1, TERT,  PRX
+entities: ['myeloproliferative neoplasm', 'lung adenocarcinoma']
+[(Document(metadata={'source': 'myeloproliferative neoplasm from SPOKE knowledge graph'}, page_content='myeloproliferative neoplasm'), 2.6370160395583486e-13)]
+[(Document(metadata={'source': 'lung adenocarcinoma from SPOKE knowledge graph'}, page_content='lung adenocarcinoma'), 2.7552293129298744e-13)]
+question: Out of the given list, which Gene is associated with myeloproliferative neoplasm and lung carcinoma. Given list is:  LPP,  TENM2, DMRT1, TERT,  UCK2
+entities: ['myeloproliferative neoplasm', 'lung carcinoma']
+[(Document(metadata={'source': 'myeloproliferative neoplasm from SPOKE knowledge graph'}, page_content='myeloproliferative neoplasm'), 2.6370160395583486e-13)]
+[(Document(metadata={'source': 'lung carcinoma from SPOKE knowledge graph'}, page_content='lung carcinoma'), 3.0049264942641485e-13)]
+question: Out of the given list, which Gene is associated with rheumatic heart disease and autoimmune hepatitis. Given list is:  SPRED2,  TTLL5,  TLR1, ALDH1A2, HLA-DQB1
+entities: ['rheumatic heart disease', 'autoimmune hepatitis']
+[(Document(metadata={'source': 'rheumatic heart disease from SPOKE knowledge graph'}, page_content='rheumatic heart disease'), 3.007091917053145e-13)]
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+question: Out of the given list, which Gene is associated with rheumatic heart disease and oral cavity cancer. Given list is: HLA-DQB1, IL23R,  TM6SF2,  BTC,  SYT14
+entities: ['rheumatic heart disease', 'oral cavity cancer']
+[(Document(metadata={'source': 'rheumatic heart disease from SPOKE knowledge graph'}, page_content='rheumatic heart disease'), 3.007091917053145e-13)]
+[(Document(metadata={'source': 'oral cavity cancer from SPOKE knowledge graph'}, page_content='oral cavity cancer'), 2.1999982673277796e-13)]
+question: Out of the given list, which Gene is associated with rheumatic heart disease and oropharynx cancer. Given list is:  PLA2G6, HLA-DQB1, IL23R,  FAM13A,  ADH1B
+entities: ['rheumatic heart disease', 'oropharynx cancer']
+[(Document(metadata={'source': 'rheumatic heart disease from SPOKE knowledge graph'}, page_content='rheumatic heart disease'), 3.007091917053145e-13)]
+[(Document(metadata={'source': 'oropharynx cancer from SPOKE knowledge graph'}, page_content='oropharynx cancer'), 2.2830844745129475e-13)]
+question: Out of the given list, which Gene is associated with rheumatic heart disease and nephrotic syndrome. Given list is:  CACNA1D,  TFAP2B,  STAT4, HLA-DQB1, PTK2B
+entities: ['rheumatic heart disease', 'nephrotic syndrome']
+[(Document(metadata={'source': 'rheumatic heart disease from SPOKE knowledge graph'}, page_content='rheumatic heart disease'), 3.007091917053145e-13)]
+[(Document(metadata={'source': 'nephrotic syndrome from SPOKE knowledge graph'}, page_content='nephrotic syndrome'), 4.067321837403909e-13)]
+question: Out of the given list, which Gene is associated with atrophic gastritis and duodenal ulcer. Given list is:  HOXD3,  ATP2B1, PSCA, CDK8,  CACNA1A
+entities: ['atrophic gastritis', 'duodenal ulcer']
+[(Document(metadata={'source': 'atrophic gastritis from SPOKE knowledge graph'}, page_content='atrophic gastritis'), 3.724208441635568e-13)]
+[(Document(metadata={'source': 'duodenal ulcer from SPOKE knowledge graph'}, page_content='duodenal ulcer'), 2.9266910075986807e-13)]
+question: Out of the given list, which Gene is associated with atrophic gastritis and gastric fundus cancer. Given list is: EYA2,  CDKAL1,  KAT2B,  PSCA, PSCA
+entities: ['atrophic gastritis', 'gastric fundus cancer']
+[(Document(metadata={'source': 'atrophic gastritis from SPOKE knowledge graph'}, page_content='atrophic gastritis'), 3.724208441635568e-13)]
+[(Document(metadata={'source': 'gastric fundus cancer from SPOKE knowledge graph'}, page_content='gastric fundus cancer'), 3.535820182649918e-13)]
+question: Out of the given list, which Gene is associated with wheat allergy and dengue hemorrhagic fever. Given list is:  NEURL1, DLEU7,  DMRT1,  ADGRG6, RBFOX1
+entities: ['wheat allergy', 'dengue hemorrhagic fever']
+[(Document(metadata={'source': 'wheat allergy from SPOKE knowledge graph'}, page_content='wheat allergy'), 2.5325515339361115e-13)]
+[(Document(metadata={'source': 'dengue hemorrhagic fever from SPOKE knowledge graph'}, page_content='dengue hemorrhagic fever'), 2.2548950825030528e-13)]
+question: Out of the given list, which Gene is associated with pulmonary hypertension and dermatomyositis. Given list is:  CLPTM1L,  C5, HLA-DPA1, AHR,  HLA-DQA1
+entities: ['pulmonary hypertension', 'dermatomyositis']
+[(Document(metadata={'source': 'pulmonary hypertension from SPOKE knowledge graph'}, page_content='pulmonary hypertension'), 2.8083338063887575e-13)]
+[(Document(metadata={'source': 'dermatomyositis from SPOKE knowledge graph'}, page_content='dermatomyositis'), 3.673069606715401e-13)]
+question: Out of the given list, which Gene is associated with cutaneous lupus erythematosus and membranous glomerulonephritis. Given list is:  JAK2,  IL6, HLA-DQA1,  HNF1B, ZEB2
+entities: ['cutaneous lupus erythematosus', 'membranous glomerulonephritis']
+[(Document(metadata={'source': 'cutaneous lupus erythematosus from SPOKE knowledge graph'}, page_content='cutaneous lupus erythematosus'), 2.9584321104003664e-13)]
+[(Document(metadata={'source': 'membranous glomerulonephritis from SPOKE knowledge graph'}, page_content='membranous glomerulonephritis'), 3.1716063152512075e-13)]
+question: Out of the given list, which Gene is associated with cutaneous lupus erythematosus and autoimmune hepatitis. Given list is:  FGFR2,  TERT, HLA-DQA1, IL6,  HLA-DQB1
+entities: ['cutaneous lupus erythematosus', 'autoimmune hepatitis']
+[(Document(metadata={'source': 'cutaneous lupus erythematosus from SPOKE knowledge graph'}, page_content='cutaneous lupus erythematosus'), 2.9584321104003664e-13)]
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+question: Out of the given list, which Gene is associated with cutaneous lupus erythematosus and immunoglobulin alpha deficiency. Given list is: DTNB,  IL10,  TNXB,  FAM13A, HLA-DQA1
+entities: ['cutaneous lupus erythematosus', 'immunoglobulin alpha deficiency']
+[(Document(metadata={'source': 'cutaneous lupus erythematosus from SPOKE knowledge graph'}, page_content='cutaneous lupus erythematosus'), 2.9584321104003664e-13)]
+[(Document(metadata={'source': 'immunoglobulin alpha deficiency from SPOKE knowledge graph'}, page_content='immunoglobulin alpha deficiency'), 2.682577196402164e-13)]
+question: Out of the given list, which Gene is associated with cutaneous lupus erythematosus and collagenous colitis. Given list is:  MUC5B,  DLEU7,  BRCA2, HLA-DQA1, THADA
+entities: ['cutaneous lupus erythematosus', 'collagenous colitis']
+[(Document(metadata={'source': 'cutaneous lupus erythematosus from SPOKE knowledge graph'}, page_content='cutaneous lupus erythematosus'), 2.9584321104003664e-13)]
+[(Document(metadata={'source': 'collagenous colitis from SPOKE knowledge graph'}, page_content='collagenous colitis'), 5.195399232355014e-13)]
+question: Out of the given list, which Gene is associated with cutaneous lupus erythematosus and cervix carcinoma. Given list is: PRX,  CDK8,  HIP1, HLA-DQA1,  RAD51B
+entities: ['cutaneous lupus erythematosus', 'cervix carcinoma']
+[(Document(metadata={'source': 'cutaneous lupus erythematosus from SPOKE knowledge graph'}, page_content='cutaneous lupus erythematosus'), 2.9584321104003664e-13)]
+[(Document(metadata={'source': 'cervix carcinoma from SPOKE knowledge graph'}, page_content='cervix carcinoma'), 3.4194009928233127e-13)]
+question: Out of the given list, which Gene is associated with systemic scleroderma and myositis. Given list is:  HLA-DPB1, STAT4,  UGT1A9, HLA-DQA1,  TNRC6B
+entities: ['systemic scleroderma', 'myositis']
+[(Document(metadata={'source': 'systemic scleroderma from SPOKE knowledge graph'}, page_content='systemic scleroderma'), 3.10571121771297e-13)]
+[(Document(metadata={'source': 'myositis from SPOKE knowledge graph'}, page_content='myositis'), 2.7004746637644683e-13)]
+question: Out of the given list, which Gene is associated with systemic scleroderma and Sjogren's syndrome. Given list is:  KITLG, STAT4, SLC14A2,  COL22A1,  TDP2
+entities: ['systemic scleroderma', "Sjogren's syndrome"]
+[(Document(metadata={'source': 'systemic scleroderma from SPOKE knowledge graph'}, page_content='systemic scleroderma'), 3.10571121771297e-13)]
+[(Document(metadata={'source': "Sjogren's syndrome from SPOKE knowledge graph"}, page_content="Sjogren's syndrome"), 3.001877175654033e-13)]
+question: Out of the given list, which Gene is associated with childhood type dermatomyositis and dermatomyositis. Given list is: FTO,  PLA2G6,  ATP2B1, GSDMB,  BRCA2
+entities: ['dermatomyositis']
+[(Document(metadata={'source': 'dermatomyositis from SPOKE knowledge graph'}, page_content='dermatomyositis'), 3.673069606715401e-13)]
+question: Out of the given list, which Gene is associated with central nervous system cancer and interstitial lung disease. Given list is:  ADGRV1,  TENM2, TERT, LRMDA,  CCDC33
+entities: ['central nervous system cancer', 'interstitial lung disease']
+[(Document(metadata={'source': 'central nervous system cancer from SPOKE knowledge graph'}, page_content='central nervous system cancer'), 3.037214577061853e-13)]
+[(Document(metadata={'source': 'interstitial lung disease from SPOKE knowledge graph'}, page_content='interstitial lung disease'), 2.6451865871301994e-13)]
+question: Out of the given list, which Gene is associated with central nervous system cancer and triple-receptor negative breast cancer. Given list is:  SLC17A4,  KITLG,  CAPN14, CACNA2D1, TERT
+entities: ['central nervous system cancer', 'triple-receptor negative breast cancer']
+[(Document(metadata={'source': 'central nervous system cancer from SPOKE knowledge graph'}, page_content='central nervous system cancer'), 3.037214577061853e-13)]
+[(Document(metadata={'source': 'triple-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='triple-receptor negative breast cancer'), 3.1195402164230224e-13)]
+question: Out of the given list, which Gene is associated with central nervous system cancer and idiopathic pulmonary fibrosis. Given list is: TERT,  MORC4,  DMRT1, GRAMD1B,  GTF2I
+entities: ['central nervous system cancer', 'idiopathic pulmonary fibrosis']
+[(Document(metadata={'source': 'central nervous system cancer from SPOKE knowledge graph'}, page_content='central nervous system cancer'), 3.037214577061853e-13)]
+[(Document(metadata={'source': 'idiopathic pulmonary fibrosis from SPOKE knowledge graph'}, page_content='idiopathic pulmonary fibrosis'), 3.4484402638111644e-13)]
+question: Out of the given list, which Gene is associated with central nervous system cancer and myeloproliferative neoplasm. Given list is: TERT,  NOD2, HLA-DQB1,  SAMM50,  SFRP4
+entities: ['central nervous system cancer', 'myeloproliferative neoplasm']
+[(Document(metadata={'source': 'central nervous system cancer from SPOKE knowledge graph'}, page_content='central nervous system cancer'), 3.037214577061853e-13)]
+[(Document(metadata={'source': 'myeloproliferative neoplasm from SPOKE knowledge graph'}, page_content='myeloproliferative neoplasm'), 2.6370160395583486e-13)]
+question: Out of the given list, which Gene is associated with central nervous system cancer and estrogen-receptor negative breast cancer. Given list is:  BABAM1,  ABO, TERT, PHACTR1,  DTNB
+entities: ['central nervous system cancer', 'estrogen-receptor negative breast cancer']
+[(Document(metadata={'source': 'central nervous system cancer from SPOKE knowledge graph'}, page_content='central nervous system cancer'), 3.037214577061853e-13)]
+[(Document(metadata={'source': 'estrogen-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='estrogen-receptor negative breast cancer'), 3.0948168832332923e-13)]
+question: Out of the given list, which Gene is associated with central nervous system cancer and lung adenocarcinoma. Given list is:  ADGRG6,  CDKAL1, TERT,  HLA-DPA1, BRCA2
+entities: ['central nervous system cancer', 'lung adenocarcinoma']
+[(Document(metadata={'source': 'central nervous system cancer from SPOKE knowledge graph'}, page_content='central nervous system cancer'), 3.037214577061853e-13)]
+[(Document(metadata={'source': 'lung adenocarcinoma from SPOKE knowledge graph'}, page_content='lung adenocarcinoma'), 2.7552293129298744e-13)]
+question: Out of the given list, which Gene is associated with central nervous system cancer and lung carcinoma. Given list is: MYBPC3,  GCKR,  STAT4, TERT,  BTN2A1
+entities: ['central nervous system cancer', 'lung carcinoma']
+[(Document(metadata={'source': 'central nervous system cancer from SPOKE knowledge graph'}, page_content='central nervous system cancer'), 3.037214577061853e-13)]
+[(Document(metadata={'source': 'lung carcinoma from SPOKE knowledge graph'}, page_content='lung carcinoma'), 3.0049264942641485e-13)]
+question: Out of the given list, which Gene is associated with opiate dependence and lung small cell carcinoma. Given list is: IL23R,  HLA-DQB2, ADGRV1,  DLEU7,  RBFOX1
+entities: ['opiate dependence', 'lung small cell carcinoma']
+[(Document(metadata={'source': 'opiate dependence from SPOKE knowledge graph'}, page_content='opiate dependence'), 2.55855991775078e-13)]
+[(Document(metadata={'source': 'lung small cell carcinoma from SPOKE knowledge graph'}, page_content='lung small cell carcinoma'), 3.3262119187443817e-13)]
+question: Out of the given list, which Gene is associated with opiate dependence and cervix carcinoma. Given list is:  SCN1A, ADGRV1,  AHR, THADA,  CASZ1
+entities: ['opiate dependence', 'cervix carcinoma']
+[(Document(metadata={'source': 'opiate dependence from SPOKE knowledge graph'}, page_content='opiate dependence'), 2.55855991775078e-13)]
+[(Document(metadata={'source': 'cervix carcinoma from SPOKE knowledge graph'}, page_content='cervix carcinoma'), 3.4194009928233127e-13)]
+question: Out of the given list, which Gene is associated with estrogen-receptor negative breast cancer and interstitial lung disease. Given list is:  FAM227B,  PTPN22,  PSCA, ABO, TERT
+entities: ['estrogen-receptor negative breast cancer', 'interstitial lung disease']
+[(Document(metadata={'source': 'estrogen-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='estrogen-receptor negative breast cancer'), 3.0948168832332923e-13)]
+[(Document(metadata={'source': 'interstitial lung disease from SPOKE knowledge graph'}, page_content='interstitial lung disease'), 2.6451865871301994e-13)]
+question: Out of the given list, which Gene is associated with estrogen-receptor negative breast cancer and triple-receptor negative breast cancer. Given list is: TRAF3IP2,  HBB, TERT,  HOXD3,  ATP2B1
+entities: ['estrogen-receptor negative breast cancer', 'triple-receptor negative breast cancer']
+[(Document(metadata={'source': 'estrogen-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='estrogen-receptor negative breast cancer'), 3.0948168832332923e-13)]
+[(Document(metadata={'source': 'triple-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='triple-receptor negative breast cancer'), 3.1195402164230224e-13)]
+question: Out of the given list, which Gene is associated with estrogen-receptor negative breast cancer and idiopathic pulmonary fibrosis. Given list is:  IL23R,  BTBD9,  SFRP4, PHGDH, TERT
+entities: ['estrogen-receptor negative breast cancer', 'idiopathic pulmonary fibrosis']
+[(Document(metadata={'source': 'estrogen-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='estrogen-receptor negative breast cancer'), 3.0948168832332923e-13)]
+[(Document(metadata={'source': 'idiopathic pulmonary fibrosis from SPOKE knowledge graph'}, page_content='idiopathic pulmonary fibrosis'), 3.4484402638111644e-13)]
+question: Out of the given list, which Gene is associated with estrogen-receptor negative breast cancer and squamous cell carcinoma. Given list is: BRCA2, CLDN14,  HLA-DPB1,  HLA-DQB1,  MTTP
+entities: ['estrogen-receptor negative breast cancer', 'squamous cell carcinoma']
+[(Document(metadata={'source': 'estrogen-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='estrogen-receptor negative breast cancer'), 3.0948168832332923e-13)]
+[(Document(metadata={'source': 'squamous cell carcinoma from SPOKE knowledge graph'}, page_content='squamous cell carcinoma'), 4.3875471832099944e-13)]
+question: Out of the given list, which Gene is associated with estrogen-receptor negative breast cancer and myeloproliferative neoplasm. Given list is: TERT,  HLA-DQB2,  BRCA2, GNE,  STAT3
+entities: ['estrogen-receptor negative breast cancer', 'myeloproliferative neoplasm']
+[(Document(metadata={'source': 'estrogen-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='estrogen-receptor negative breast cancer'), 3.0948168832332923e-13)]
+[(Document(metadata={'source': 'myeloproliferative neoplasm from SPOKE knowledge graph'}, page_content='myeloproliferative neoplasm'), 2.6370160395583486e-13)]
+question: Out of the given list, which Gene is associated with estrogen-receptor negative breast cancer and central nervous system cancer. Given list is:  FER,  CACNA1D, COL22A1,  TNFSF15, TERT
+entities: ['estrogen-receptor negative breast cancer', 'central nervous system cancer']
+[(Document(metadata={'source': 'estrogen-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='estrogen-receptor negative breast cancer'), 3.0948168832332923e-13)]
+[(Document(metadata={'source': 'central nervous system cancer from SPOKE knowledge graph'}, page_content='central nervous system cancer'), 3.037214577061853e-13)]
+question: Out of the given list, which Gene is associated with estrogen-receptor negative breast cancer and lung adenocarcinoma. Given list is: SAMD9L,  PTPRD,  DAB2IP,  IL23R, TERT
+entities: ['estrogen-receptor negative breast cancer', 'lung adenocarcinoma']
+[(Document(metadata={'source': 'estrogen-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='estrogen-receptor negative breast cancer'), 3.0948168832332923e-13)]
+[(Document(metadata={'source': 'lung adenocarcinoma from SPOKE knowledge graph'}, page_content='lung adenocarcinoma'), 2.7552293129298744e-13)]
+question: Out of the given list, which Gene is associated with estrogen-receptor negative breast cancer and lung squamous cell carcinoma. Given list is: BRCA2, SULT1B1,  SPRED2,  CHST11,  CCDC33
+entities: ['estrogen-receptor negative breast cancer', 'lung squamous cell carcinoma']
+[(Document(metadata={'source': 'estrogen-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='estrogen-receptor negative breast cancer'), 3.0948168832332923e-13)]
+[(Document(metadata={'source': 'lung squamous cell carcinoma from SPOKE knowledge graph'}, page_content='lung squamous cell carcinoma'), 3.136673863354811e-13)]
+question: Out of the given list, which Gene is associated with estrogen-receptor negative breast cancer and lung carcinoma. Given list is:  ABCG2,  GATA3,  TP53, TERT, PLA2G6
+entities: ['estrogen-receptor negative breast cancer', 'lung carcinoma']
+[(Document(metadata={'source': 'estrogen-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='estrogen-receptor negative breast cancer'), 3.0948168832332923e-13)]
+[(Document(metadata={'source': 'lung carcinoma from SPOKE knowledge graph'}, page_content='lung carcinoma'), 3.0049264942641485e-13)]
+question: Out of the given list, which Gene is associated with dermatomyositis and pulmonary hypertension. Given list is: TG, HLA-DPA1,  PNPLA3,  ZFPM2,  UMOD
+entities: ['dermatomyositis', 'pulmonary hypertension']
+[(Document(metadata={'source': 'dermatomyositis from SPOKE knowledge graph'}, page_content='dermatomyositis'), 3.673069606715401e-13)]
+[(Document(metadata={'source': 'pulmonary hypertension from SPOKE knowledge graph'}, page_content='pulmonary hypertension'), 2.8083338063887575e-13)]
+question: Out of the given list, which Gene is associated with dermatomyositis and childhood type dermatomyositis. Given list is: GSDMB,  HLA-DQA1,  ADH1B,  POU5F1B, HLA-B
+entities: ['dermatomyositis', 'childhood type dermatomyositis']
+[(Document(metadata={'source': 'dermatomyositis from SPOKE knowledge graph'}, page_content='dermatomyositis'), 3.673069606715401e-13)]
+[(Document(metadata={'source': 'childhood type dermatomyositis from SPOKE knowledge graph'}, page_content='childhood type dermatomyositis'), 3.1900629598839714e-13)]
+question: Out of the given list, which Gene is associated with esophagus adenocarcinoma and Barrett's esophagus. Given list is:  TERT, HLA-DQB2,  EPDR1,  PNPLA3, CRTC1
+entities: ['esophagus adenocarcinoma', "Barrett's esophagus"]
+[(Document(metadata={'source': 'esophagus adenocarcinoma from SPOKE knowledge graph'}, page_content='esophagus adenocarcinoma'), 2.9608664153281394e-13)]
+[(Document(metadata={'source': "Barrett's esophagus from SPOKE knowledge graph"}, page_content="Barrett's esophagus"), 2.2495758511195674e-13)]
+question: Out of the given list, which Gene is associated with kidney disease and age related macular degeneration. Given list is: CFH,  MUC5B,  DAB2IP,  BTN2A1, ADH1B
+entities: ['kidney disease', 'age related macular degeneration']
+[(Document(metadata={'source': 'kidney disease from SPOKE knowledge graph'}, page_content='kidney disease'), 3.062145263917071e-13)]
+[(Document(metadata={'source': 'age related macular degeneration from SPOKE knowledge graph'}, page_content='age related macular degeneration'), 2.9678118144450816e-13)]
+question: Out of the given list, which Gene is associated with kidney disease and Kuhnt-Junius degeneration. Given list is: CFH,  HLA-DQB2,  DNMT3A,  TNNT2, GATA3
+entities: ['kidney disease', 'Kuhnt-Junius degeneration']
+[(Document(metadata={'source': 'kidney disease from SPOKE knowledge graph'}, page_content='kidney disease'), 3.062145263917071e-13)]
+[(Document(metadata={'source': 'Mayer-Rokitansky-Kuster-Hauser syndrome from SPOKE knowledge graph'}, page_content='Mayer-Rokitansky-Kuster-Hauser syndrome'), 1.176513433456421)]
+question: Out of the given list, which Gene is associated with anterior uveitis and ankylosing spondylitis. Given list is:  SYT14, TNFSF15,  UGT1A8,  HBB, ERAP1
+entities: ['anterior uveitis', 'ankylosing spondylitis']
+[(Document(metadata={'source': 'anterior uveitis from SPOKE knowledge graph'}, page_content='anterior uveitis'), 2.7806833983838597e-13)]
+[(Document(metadata={'source': 'ankylosing spondylitis from SPOKE knowledge graph'}, page_content='ankylosing spondylitis'), 2.9496180888391454e-13)]
+question: Out of the given list, which Gene is associated with dilated cardiomyopathy and hypertrophic cardiomyopathy. Given list is:  TLR1,  IL23R, HLA-B, MYH7,  HLA-DQA1
+entities: ['dilated cardiomyopathy', 'hypertrophic cardiomyopathy']
+[(Document(metadata={'source': 'dilated cardiomyopathy from SPOKE knowledge graph'}, page_content='dilated cardiomyopathy'), 4.985023895412444e-13)]
+[(Document(metadata={'source': 'hypertrophic cardiomyopathy from SPOKE knowledge graph'}, page_content='hypertrophic cardiomyopathy'), 3.056262653979708e-13)]
+question: Out of the given list, which Gene is associated with pancreatic carcinoma and malaria. Given list is:  HLA-DQA1,  CACNA1S, KAT2B, ABO,  ATXN2
+entities: ['pancreatic carcinoma', 'malaria']
+[(Document(metadata={'source': 'pancreatic carcinoma from SPOKE knowledge graph'}, page_content='pancreatic carcinoma'), 5.081481025889789e-13)]
+[(Document(metadata={'source': 'malaria from SPOKE knowledge graph'}, page_content='malaria'), 3.059713398444186e-13)]
+question: Out of the given list, which Gene is associated with pancreatic carcinoma and oral cavity cancer. Given list is:  GCKR, CLPTM1L,  CHST11, CRTC1,  COL22A1
+entities: ['pancreatic carcinoma', 'oral cavity cancer']
+[(Document(metadata={'source': 'pancreatic carcinoma from SPOKE knowledge graph'}, page_content='pancreatic carcinoma'), 5.081481025889789e-13)]
+[(Document(metadata={'source': 'oral cavity cancer from SPOKE knowledge graph'}, page_content='oral cavity cancer'), 2.1999982673277796e-13)]
+question: Out of the given list, which Gene is associated with pancreatic carcinoma and duodenal ulcer. Given list is: ABO,  CRTC1, CACNB2,  PSCA,  CDK8
+entities: ['pancreatic carcinoma', 'duodenal ulcer']
+[(Document(metadata={'source': 'pancreatic carcinoma from SPOKE knowledge graph'}, page_content='pancreatic carcinoma'), 5.081481025889789e-13)]
+[(Document(metadata={'source': 'duodenal ulcer from SPOKE knowledge graph'}, page_content='duodenal ulcer'), 2.9266910075986807e-13)]
+question: Out of the given list, which Gene is associated with cervix carcinoma and membranous glomerulonephritis. Given list is: HLA-DQA1,  WNT4,  TNIP1, CAPN14,  DTNB
+entities: ['cervix carcinoma', 'membranous glomerulonephritis']
+[(Document(metadata={'source': 'cervix carcinoma from SPOKE knowledge graph'}, page_content='cervix carcinoma'), 3.4194009928233127e-13)]
+[(Document(metadata={'source': 'membranous glomerulonephritis from SPOKE knowledge graph'}, page_content='membranous glomerulonephritis'), 3.1716063152512075e-13)]
+question: Out of the given list, which Gene is associated with cervix carcinoma and lung small cell carcinoma. Given list is:  TLR1,  SYT14,  VAV3, BTN2A1, ADGRV1
+entities: ['cervix carcinoma', 'lung small cell carcinoma']
+[(Document(metadata={'source': 'cervix carcinoma from SPOKE knowledge graph'}, page_content='cervix carcinoma'), 3.4194009928233127e-13)]
+[(Document(metadata={'source': 'lung small cell carcinoma from SPOKE knowledge graph'}, page_content='lung small cell carcinoma'), 3.3262119187443817e-13)]
+question: Out of the given list, which Gene is associated with cervix carcinoma and autoimmune hepatitis. Given list is: CHST11,  FAT3,  IL6,  ERAP1, HLA-DQA1
+entities: ['cervix carcinoma', 'autoimmune hepatitis']
+[(Document(metadata={'source': 'cervix carcinoma from SPOKE knowledge graph'}, page_content='cervix carcinoma'), 3.4194009928233127e-13)]
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+question: Out of the given list, which Gene is associated with cervix carcinoma and immunoglobulin alpha deficiency. Given list is: SAMD9L,  CDK8, HLA-DQA1,  CFH,  PRKN
+entities: ['cervix carcinoma', 'immunoglobulin alpha deficiency']
+[(Document(metadata={'source': 'cervix carcinoma from SPOKE knowledge graph'}, page_content='cervix carcinoma'), 3.4194009928233127e-13)]
+[(Document(metadata={'source': 'immunoglobulin alpha deficiency from SPOKE knowledge graph'}, page_content='immunoglobulin alpha deficiency'), 2.682577196402164e-13)]
+question: Out of the given list, which Gene is associated with cervix carcinoma and collagenous colitis. Given list is: FAM227B,  HLA-B, HLA-DQA1,  CDKAL1,  PNPLA3
+entities: ['cervix carcinoma', 'collagenous colitis']
+[(Document(metadata={'source': 'cervix carcinoma from SPOKE knowledge graph'}, page_content='cervix carcinoma'), 3.4194009928233127e-13)]
+[(Document(metadata={'source': 'collagenous colitis from SPOKE knowledge graph'}, page_content='collagenous colitis'), 5.195399232355014e-13)]
+question: Out of the given list, which Gene is associated with cervix carcinoma and cutaneous lupus erythematosus. Given list is:  PRKN, HLA-DPA1,  VAV3,  RBFOX1, HLA-DQA1
+entities: ['cervix carcinoma', 'cutaneous lupus erythematosus']
+[(Document(metadata={'source': 'cervix carcinoma from SPOKE knowledge graph'}, page_content='cervix carcinoma'), 3.4194009928233127e-13)]
+[(Document(metadata={'source': 'cutaneous lupus erythematosus from SPOKE knowledge graph'}, page_content='cutaneous lupus erythematosus'), 2.9584321104003664e-13)]
+question: Out of the given list, which Gene is associated with cervix carcinoma and opiate dependence. Given list is: HYKK,  HOXD3,  HLA-DQA1, ADGRV1,  BRCA2
+entities: ['cervix carcinoma', 'opiate dependence']
+[(Document(metadata={'source': 'cervix carcinoma from SPOKE knowledge graph'}, page_content='cervix carcinoma'), 3.4194009928233127e-13)]
+[(Document(metadata={'source': 'opiate dependence from SPOKE knowledge graph'}, page_content='opiate dependence'), 2.55855991775078e-13)]
+question: Out of the given list, which Gene is associated with Hodgkin's lymphoma, nodular sclerosis and Hodgkin's lymphoma. Given list is: HLA-DQB2,  FADS2, GATA3,  TM6SF2,  CFH
+entities: ["Hodgkin's lymphoma", 'nodular sclerosis']
+[(Document(metadata={'source': "Hodgkin's lymphoma from SPOKE knowledge graph"}, page_content="Hodgkin's lymphoma"), 3.2026180210413535e-13)]
+[(Document(metadata={'source': "Hodgkin's lymphoma, nodular sclerosis from SPOKE knowledge graph"}, page_content="Hodgkin's lymphoma, nodular sclerosis"), 0.627601146697998)]
+question: Out of the given list, which Gene is associated with Sjogren's syndrome and myositis. Given list is:  HLA-DQA1,  KIT,  TERT, STAT4, TERT
+entities: ["Sjogren's syndrome", 'myositis']
+[(Document(metadata={'source': "Sjogren's syndrome from SPOKE knowledge graph"}, page_content="Sjogren's syndrome"), 3.001877175654033e-13)]
+[(Document(metadata={'source': 'myositis from SPOKE knowledge graph'}, page_content='myositis'), 2.7004746637644683e-13)]
+question: Out of the given list, which Gene is associated with Sjogren's syndrome and systemic scleroderma. Given list is:  BTN3A1,  HLA-DQB1, JAK2,  TGM2, STAT4
+entities: ["Sjogren's syndrome", 'systemic scleroderma']
+[(Document(metadata={'source': "Sjogren's syndrome from SPOKE knowledge graph"}, page_content="Sjogren's syndrome"), 3.001877175654033e-13)]
+[(Document(metadata={'source': 'systemic scleroderma from SPOKE knowledge graph'}, page_content='systemic scleroderma'), 3.10571121771297e-13)]
+question: Out of the given list, which Gene is associated with Crohn's disease and inflammatory bowel disease. Given list is:  HBB, TNRC18, IL23R,  RP1,  LOXL1
+entities: ["Crohn's disease", 'inflammatory bowel disease']
+[(Document(metadata={'source': "Crohn's disease from SPOKE knowledge graph"}, page_content="Crohn's disease"), 3.106973229041743e-13)]
+[(Document(metadata={'source': 'inflammatory bowel disease from SPOKE knowledge graph'}, page_content='inflammatory bowel disease'), 3.243541503092362e-13)]
+question: Out of the given list, which Gene is associated with Crohn's disease and ankylosing spondylitis. Given list is:  YLPM1,  CHEK2,  ZEB2, HLA-DQA1, IL23R
+entities: ["Crohn's disease", 'ankylosing spondylitis']
+[(Document(metadata={'source': "Crohn's disease from SPOKE knowledge graph"}, page_content="Crohn's disease"), 3.106973229041743e-13)]
+[(Document(metadata={'source': 'ankylosing spondylitis from SPOKE knowledge graph'}, page_content='ankylosing spondylitis'), 2.9496180888391454e-13)]
+question: Out of the given list, which Gene is associated with Crohn's disease and ulcerative colitis. Given list is:  CAPN14,  LPP,  UMPS, RBFOX1, IL23R
+entities: ["Crohn's disease", 'ulcerative colitis']
+[(Document(metadata={'source': "Crohn's disease from SPOKE knowledge graph"}, page_content="Crohn's disease"), 3.106973229041743e-13)]
+[(Document(metadata={'source': 'ulcerative colitis from SPOKE knowledge graph'}, page_content='ulcerative colitis'), 3.090298470679459e-13)]
+question: Out of the given list, which Gene is associated with urticaria and male breast cancer. Given list is:  TGM2,  TENM2,  HLA-B, RAD51B, GSDMB
+entities: ['urticaria', 'male breast cancer']
+[(Document(metadata={'source': 'urticaria from SPOKE knowledge graph'}, page_content='urticaria'), 2.98893125961347e-13)]
+[(Document(metadata={'source': 'male breast cancer from SPOKE knowledge graph'}, page_content='male breast cancer'), 2.546067740319402e-13)]
+question: Out of the given list, which Gene is associated with allergic rhinitis and psoriasis. Given list is:  MYH7,  ADH1B, MYH7, HLA-B,  PKNOX2
+entities: ['allergic rhinitis', 'psoriasis']
+[(Document(metadata={'source': 'allergic rhinitis from SPOKE knowledge graph'}, page_content='allergic rhinitis'), 2.837578262637752e-13)]
+[(Document(metadata={'source': 'psoriasis from SPOKE knowledge graph'}, page_content='psoriasis'), 2.707602479896931e-13)]
+question: Out of the given list, which Gene is associated with allergic rhinitis and limited scleroderma. Given list is: SNCA,  HLA-DQB1, TLR1,  EPDR1,  SHTN1
+entities: ['allergic rhinitis', 'limited scleroderma']
+[(Document(metadata={'source': 'allergic rhinitis from SPOKE knowledge graph'}, page_content='allergic rhinitis'), 2.837578262637752e-13)]
+[(Document(metadata={'source': 'limited scleroderma from SPOKE knowledge graph'}, page_content='limited scleroderma'), 2.308286211911287e-13)]
+question: Out of the given list, which Gene is associated with allergic rhinitis and Takayasu's arteritis. Given list is:  MORC4, STN1,  ABO, HLA-B,  PNPLA3
+entities: ['allergic rhinitis', "Takayasu's arteritis"]
+[(Document(metadata={'source': 'allergic rhinitis from SPOKE knowledge graph'}, page_content='allergic rhinitis'), 2.837578262637752e-13)]
+[(Document(metadata={'source': "Takayasu's arteritis from SPOKE knowledge graph"}, page_content="Takayasu's arteritis"), 2.064853550729634e-13)]
+question: Out of the given list, which Gene is associated with allergic rhinitis and myelodysplastic syndrome. Given list is:  TRAF3IP2,  FADS1, SHTN1,  ATXN2, HLA-B
+entities: ['allergic rhinitis', 'myelodysplastic syndrome']
+[(Document(metadata={'source': 'allergic rhinitis from SPOKE knowledge graph'}, page_content='allergic rhinitis'), 2.837578262637752e-13)]
+[(Document(metadata={'source': 'myelodysplastic syndrome from SPOKE knowledge graph'}, page_content='myelodysplastic syndrome'), 3.516798397634746e-13)]
+question: Out of the given list, which Gene is associated with allergic rhinitis and herpes zoster. Given list is:  CHST11, HLA-B,  HLA-DQB1, RELN,  TP53
+entities: ['allergic rhinitis', 'herpes zoster']
+[(Document(metadata={'source': 'allergic rhinitis from SPOKE knowledge graph'}, page_content='allergic rhinitis'), 2.837578262637752e-13)]
+[(Document(metadata={'source': 'herpes zoster from SPOKE knowledge graph'}, page_content='herpes zoster'), 2.766038808589555e-13)]
+question: Out of the given list, which Gene is associated with allergic rhinitis and diffuse large B-cell lymphoma. Given list is: HLA-B,  CACNA1A,  TERT,  EPDR1, ATXN2
+entities: ['allergic rhinitis', 'diffuse large B-cell lymphoma']
+[(Document(metadata={'source': 'allergic rhinitis from SPOKE knowledge graph'}, page_content='allergic rhinitis'), 2.837578262637752e-13)]
+[(Document(metadata={'source': 'diffuse large B-cell lymphoma from SPOKE knowledge graph'}, page_content='diffuse large B-cell lymphoma'), 2.731967755319198e-13)]
+question: Out of the given list, which Gene is associated with allergic rhinitis and psoriatic arthritis. Given list is: HLA-B,  FAM227B,  RP1, FTO,  KIF1B
+entities: ['allergic rhinitis', 'psoriatic arthritis']
+[(Document(metadata={'source': 'allergic rhinitis from SPOKE knowledge graph'}, page_content='allergic rhinitis'), 2.837578262637752e-13)]
+[(Document(metadata={'source': 'psoriatic arthritis from SPOKE knowledge graph'}, page_content='psoriatic arthritis'), 2.3338752805357466e-13)]
+question: Out of the given list, which Gene is associated with marginal zone lymphoma and diffuse large B-cell lymphoma. Given list is: FHOD3,  PBX2,  RP1, KALRN,  AHR
+entities: ['marginal zone lymphoma', 'diffuse large B-cell lymphoma']
+[(Document(metadata={'source': 'marginal zone lymphoma from SPOKE knowledge graph'}, page_content='marginal zone lymphoma'), 3.3383151386463805e-13)]
+[(Document(metadata={'source': 'diffuse large B-cell lymphoma from SPOKE knowledge graph'}, page_content='diffuse large B-cell lymphoma'), 2.731967755319198e-13)]
+question: Out of the given list, which Gene is associated with diffuse large B-cell lymphoma and psoriasis. Given list is:  ERAP1, CLPTM1L,  ADGRG6, HLA-B,  MST1
+entities: ['diffuse large B-cell lymphoma', 'psoriasis']
+[(Document(metadata={'source': 'diffuse large B-cell lymphoma from SPOKE knowledge graph'}, page_content='diffuse large B-cell lymphoma'), 2.731967755319198e-13)]
+[(Document(metadata={'source': 'psoriasis from SPOKE knowledge graph'}, page_content='psoriasis'), 2.707602479896931e-13)]
+question: Out of the given list, which Gene is associated with diffuse large B-cell lymphoma and Takayasu's arteritis. Given list is:  GTF2I,  HLA-DQA1, HLA-B,  CRTC1, RORA
+entities: ['diffuse large B-cell lymphoma', "Takayasu's arteritis"]
+[(Document(metadata={'source': 'diffuse large B-cell lymphoma from SPOKE knowledge graph'}, page_content='diffuse large B-cell lymphoma'), 2.731967755319198e-13)]
+[(Document(metadata={'source': "Takayasu's arteritis from SPOKE knowledge graph"}, page_content="Takayasu's arteritis"), 2.064853550729634e-13)]
+question: Out of the given list, which Gene is associated with diffuse large B-cell lymphoma and myelodysplastic syndrome. Given list is:  IL23R,  TERT, HLA-B, HLA-DQA1,  TNXB
+entities: ['diffuse large B-cell lymphoma', 'myelodysplastic syndrome']
+[(Document(metadata={'source': 'diffuse large B-cell lymphoma from SPOKE knowledge graph'}, page_content='diffuse large B-cell lymphoma'), 2.731967755319198e-13)]
+[(Document(metadata={'source': 'myelodysplastic syndrome from SPOKE knowledge graph'}, page_content='myelodysplastic syndrome'), 3.516798397634746e-13)]
+question: Out of the given list, which Gene is associated with diffuse large B-cell lymphoma and herpes zoster. Given list is:  SNCA,  CDKAL1,  HLA-DQA1, HLA-B, RBFOX1
+entities: ['diffuse large B-cell lymphoma', 'herpes zoster']
+[(Document(metadata={'source': 'diffuse large B-cell lymphoma from SPOKE knowledge graph'}, page_content='diffuse large B-cell lymphoma'), 2.731967755319198e-13)]
+[(Document(metadata={'source': 'herpes zoster from SPOKE knowledge graph'}, page_content='herpes zoster'), 2.766038808589555e-13)]
+question: Out of the given list, which Gene is associated with diffuse large B-cell lymphoma and allergic rhinitis. Given list is:  IL2RA,  SLC14A2, HLA-B,  TNFSF13, ZEB2
+entities: ['diffuse large B-cell lymphoma', 'allergic rhinitis']
+[(Document(metadata={'source': 'diffuse large B-cell lymphoma from SPOKE knowledge graph'}, page_content='diffuse large B-cell lymphoma'), 2.731967755319198e-13)]
+[(Document(metadata={'source': 'allergic rhinitis from SPOKE knowledge graph'}, page_content='allergic rhinitis'), 2.837578262637752e-13)]
+question: Out of the given list, which Gene is associated with diffuse large B-cell lymphoma and marginal zone lymphoma. Given list is:  HLA-DPA1, VAV3, KALRN,  IL12RB2,  WNT10A
+entities: ['diffuse large B-cell lymphoma', 'marginal zone lymphoma']
+[(Document(metadata={'source': 'diffuse large B-cell lymphoma from SPOKE knowledge graph'}, page_content='diffuse large B-cell lymphoma'), 2.731967755319198e-13)]
+[(Document(metadata={'source': 'marginal zone lymphoma from SPOKE knowledge graph'}, page_content='marginal zone lymphoma'), 3.3383151386463805e-13)]
+question: Out of the given list, which Gene is associated with diffuse large B-cell lymphoma and psoriatic arthritis. Given list is:  ARMS2, RORA,  TLR1,  ADH1B, HLA-B
+entities: ['diffuse large B-cell lymphoma', 'psoriatic arthritis']
+[(Document(metadata={'source': 'diffuse large B-cell lymphoma from SPOKE knowledge graph'}, page_content='diffuse large B-cell lymphoma'), 2.731967755319198e-13)]
+[(Document(metadata={'source': 'psoriatic arthritis from SPOKE knowledge graph'}, page_content='psoriatic arthritis'), 2.3338752805357466e-13)]
+question: Out of the given list, which Gene is associated with lung adenocarcinoma and interstitial lung disease. Given list is: TERT,  YLPM1, FTO,  SHTN1,  IL23R
+entities: ['lung adenocarcinoma', 'interstitial lung disease']
+[(Document(metadata={'source': 'lung adenocarcinoma from SPOKE knowledge graph'}, page_content='lung adenocarcinoma'), 2.7552293129298744e-13)]
+[(Document(metadata={'source': 'interstitial lung disease from SPOKE knowledge graph'}, page_content='interstitial lung disease'), 2.6451865871301994e-13)]
+question: Out of the given list, which Gene is associated with lung adenocarcinoma and triple-receptor negative breast cancer. Given list is: BTBD9,  NTM,  RP1, TERT,  CASZ1
+entities: ['lung adenocarcinoma', 'triple-receptor negative breast cancer']
+[(Document(metadata={'source': 'lung adenocarcinoma from SPOKE knowledge graph'}, page_content='lung adenocarcinoma'), 2.7552293129298744e-13)]
+[(Document(metadata={'source': 'triple-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='triple-receptor negative breast cancer'), 3.1195402164230224e-13)]
+question: Out of the given list, which Gene is associated with lung adenocarcinoma and idiopathic pulmonary fibrosis. Given list is:  SLC14A2,  SLC14A2,  MTTP, PSCA, TERT
+entities: ['lung adenocarcinoma', 'idiopathic pulmonary fibrosis']
+[(Document(metadata={'source': 'lung adenocarcinoma from SPOKE knowledge graph'}, page_content='lung adenocarcinoma'), 2.7552293129298744e-13)]
+[(Document(metadata={'source': 'idiopathic pulmonary fibrosis from SPOKE knowledge graph'}, page_content='idiopathic pulmonary fibrosis'), 3.4484402638111644e-13)]
+question: Out of the given list, which Gene is associated with lung adenocarcinoma and myeloproliferative neoplasm. Given list is:  TG, CACNB2,  PRKAA1, TERT,  CACNA1S
+entities: ['lung adenocarcinoma', 'myeloproliferative neoplasm']
+[(Document(metadata={'source': 'lung adenocarcinoma from SPOKE knowledge graph'}, page_content='lung adenocarcinoma'), 2.7552293129298744e-13)]
+[(Document(metadata={'source': 'myeloproliferative neoplasm from SPOKE knowledge graph'}, page_content='myeloproliferative neoplasm'), 2.6370160395583486e-13)]
+question: Out of the given list, which Gene is associated with lung adenocarcinoma and central nervous system cancer. Given list is:  POU5F1B,  SCN1A,  STAT4, TERT, BTNL2
+entities: ['lung adenocarcinoma', 'central nervous system cancer']
+[(Document(metadata={'source': 'lung adenocarcinoma from SPOKE knowledge graph'}, page_content='lung adenocarcinoma'), 2.7552293129298744e-13)]
+[(Document(metadata={'source': 'central nervous system cancer from SPOKE knowledge graph'}, page_content='central nervous system cancer'), 3.037214577061853e-13)]
+question: Out of the given list, which Gene is associated with lung adenocarcinoma and estrogen-receptor negative breast cancer. Given list is: JRK,  PLG,  PNPLA3, TERT,  IL23R
+entities: ['lung adenocarcinoma', 'estrogen-receptor negative breast cancer']
+[(Document(metadata={'source': 'lung adenocarcinoma from SPOKE knowledge graph'}, page_content='lung adenocarcinoma'), 2.7552293129298744e-13)]
+[(Document(metadata={'source': 'estrogen-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='estrogen-receptor negative breast cancer'), 3.0948168832332923e-13)]
+question: Out of the given list, which Gene is associated with lung adenocarcinoma and lung carcinoma. Given list is: TERT, IL23R,  PHACTR1,  SLC2A9,  JRK
+entities: ['lung adenocarcinoma', 'lung carcinoma']
+[(Document(metadata={'source': 'lung adenocarcinoma from SPOKE knowledge graph'}, page_content='lung adenocarcinoma'), 2.7552293129298744e-13)]
+[(Document(metadata={'source': 'lung carcinoma from SPOKE knowledge graph'}, page_content='lung carcinoma'), 3.0049264942641485e-13)]
+question: Out of the given list, which Gene is associated with psoriatic arthritis and psoriasis. Given list is: HLA-B,  DAB2IP,  TYR,  FTO, FAT3
+entities: ['psoriatic arthritis', 'psoriasis']
+[(Document(metadata={'source': 'psoriatic arthritis from SPOKE knowledge graph'}, page_content='psoriatic arthritis'), 2.3338752805357466e-13)]
+[(Document(metadata={'source': 'psoriasis from SPOKE knowledge graph'}, page_content='psoriasis'), 2.707602479896931e-13)]
+question: Out of the given list, which Gene is associated with psoriatic arthritis and Takayasu's arteritis. Given list is:  TMC7, HLA-B,  SLC2A9, PCDH7,  PHGDH
+entities: ['psoriatic arthritis', "Takayasu's arteritis"]
+[(Document(metadata={'source': 'psoriatic arthritis from SPOKE knowledge graph'}, page_content='psoriatic arthritis'), 2.3338752805357466e-13)]
+[(Document(metadata={'source': "Takayasu's arteritis from SPOKE knowledge graph"}, page_content="Takayasu's arteritis"), 2.064853550729634e-13)]
+question: Out of the given list, which Gene is associated with psoriatic arthritis and myelodysplastic syndrome. Given list is:  EPDR1, HLA-B,  SFRP4,  PNPLA3, ARMS2
+entities: ['psoriatic arthritis', 'myelodysplastic syndrome']
+[(Document(metadata={'source': 'psoriatic arthritis from SPOKE knowledge graph'}, page_content='psoriatic arthritis'), 2.3338752805357466e-13)]
+[(Document(metadata={'source': 'myelodysplastic syndrome from SPOKE knowledge graph'}, page_content='myelodysplastic syndrome'), 3.516798397634746e-13)]
+question: Out of the given list, which Gene is associated with psoriatic arthritis and herpes zoster. Given list is:  NANOS1,  TLR1,  NTM, HLA-B, SCN1A
+entities: ['psoriatic arthritis', 'herpes zoster']
+[(Document(metadata={'source': 'psoriatic arthritis from SPOKE knowledge graph'}, page_content='psoriatic arthritis'), 2.3338752805357466e-13)]
+[(Document(metadata={'source': 'herpes zoster from SPOKE knowledge graph'}, page_content='herpes zoster'), 2.766038808589555e-13)]
+question: Out of the given list, which Gene is associated with psoriatic arthritis and allergic rhinitis. Given list is:  RP1,  STAT4, C5AR1,  TENM2, HLA-B
+entities: ['psoriatic arthritis', 'allergic rhinitis']
+[(Document(metadata={'source': 'psoriatic arthritis from SPOKE knowledge graph'}, page_content='psoriatic arthritis'), 2.3338752805357466e-13)]
+[(Document(metadata={'source': 'allergic rhinitis from SPOKE knowledge graph'}, page_content='allergic rhinitis'), 2.837578262637752e-13)]
+question: Out of the given list, which Gene is associated with psoriatic arthritis and diffuse large B-cell lymphoma. Given list is:  HLA-DQB1, ABCG2,  PTK2B, HLA-B,  RP1
+entities: ['psoriatic arthritis', 'diffuse large B-cell lymphoma']
+[(Document(metadata={'source': 'psoriatic arthritis from SPOKE knowledge graph'}, page_content='psoriatic arthritis'), 2.3338752805357466e-13)]
+[(Document(metadata={'source': 'diffuse large B-cell lymphoma from SPOKE knowledge graph'}, page_content='diffuse large B-cell lymphoma'), 2.731967755319198e-13)]
+question: Out of the given list, which Gene is associated with lung squamous cell carcinoma and squamous cell carcinoma. Given list is: DTNB, BRCA2,  CCDC33,  IGF1R,  XBP1
+entities: ['lung squamous cell carcinoma', 'squamous cell carcinoma']
+[(Document(metadata={'source': 'lung squamous cell carcinoma from SPOKE knowledge graph'}, page_content='lung squamous cell carcinoma'), 3.136673863354811e-13)]
+[(Document(metadata={'source': 'squamous cell carcinoma from SPOKE knowledge graph'}, page_content='squamous cell carcinoma'), 4.3875471832099944e-13)]
+question: Out of the given list, which Gene is associated with lung squamous cell carcinoma and estrogen-receptor negative breast cancer. Given list is:  STAT4, CACNA2D1,  KIF1B,  ATXN2, BRCA2
+entities: ['lung squamous cell carcinoma', 'estrogen-receptor negative breast cancer']
+[(Document(metadata={'source': 'lung squamous cell carcinoma from SPOKE knowledge graph'}, page_content='lung squamous cell carcinoma'), 3.136673863354811e-13)]
+[(Document(metadata={'source': 'estrogen-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='estrogen-receptor negative breast cancer'), 3.0948168832332923e-13)]
+question: Out of the given list, which Gene is associated with lung carcinoma and interstitial lung disease. Given list is:  ATXN2, TERT, FAM227B,  ALDH1A2,  KALRN
+entities: ['lung carcinoma', 'interstitial lung disease']
+[(Document(metadata={'source': 'lung carcinoma from SPOKE knowledge graph'}, page_content='lung carcinoma'), 3.0049264942641485e-13)]
+[(Document(metadata={'source': 'interstitial lung disease from SPOKE knowledge graph'}, page_content='interstitial lung disease'), 2.6451865871301994e-13)]
+question: Out of the given list, which Gene is associated with lung carcinoma and triple-receptor negative breast cancer. Given list is: TERT, SLC2A9,  MYBPC3,  HLA-DQA1,  WNT10A
+entities: ['lung carcinoma', 'triple-receptor negative breast cancer']
+[(Document(metadata={'source': 'lung carcinoma from SPOKE knowledge graph'}, page_content='lung carcinoma'), 3.0049264942641485e-13)]
+[(Document(metadata={'source': 'triple-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='triple-receptor negative breast cancer'), 3.1195402164230224e-13)]
+question: Out of the given list, which Gene is associated with lung carcinoma and idiopathic pulmonary fibrosis. Given list is:  PRKAG2,  YLPM1, TERT, LOXL1,  HLA-DQB1
+entities: ['lung carcinoma', 'idiopathic pulmonary fibrosis']
+[(Document(metadata={'source': 'lung carcinoma from SPOKE knowledge graph'}, page_content='lung carcinoma'), 3.0049264942641485e-13)]
+[(Document(metadata={'source': 'idiopathic pulmonary fibrosis from SPOKE knowledge graph'}, page_content='idiopathic pulmonary fibrosis'), 3.4484402638111644e-13)]
+question: Out of the given list, which Gene is associated with lung carcinoma and myeloproliferative neoplasm. Given list is: TERT, MST1,  OPTN,  TNRC18,  PSCA
+entities: ['lung carcinoma', 'myeloproliferative neoplasm']
+[(Document(metadata={'source': 'lung carcinoma from SPOKE knowledge graph'}, page_content='lung carcinoma'), 3.0049264942641485e-13)]
+[(Document(metadata={'source': 'myeloproliferative neoplasm from SPOKE knowledge graph'}, page_content='myeloproliferative neoplasm'), 2.6370160395583486e-13)]
+question: Out of the given list, which Gene is associated with lung carcinoma and central nervous system cancer. Given list is:  C9,  GNE,  CDKAL1, TERT, PTPN22
+entities: ['lung carcinoma', 'central nervous system cancer']
+[(Document(metadata={'source': 'lung carcinoma from SPOKE knowledge graph'}, page_content='lung carcinoma'), 3.0049264942641485e-13)]
+[(Document(metadata={'source': 'central nervous system cancer from SPOKE knowledge graph'}, page_content='central nervous system cancer'), 3.037214577061853e-13)]
+question: Out of the given list, which Gene is associated with lung carcinoma and estrogen-receptor negative breast cancer. Given list is:  SAMD9L,  BTNL2, TERT, TERT,  STAT4
+entities: ['lung carcinoma', 'estrogen-receptor negative breast cancer']
+[(Document(metadata={'source': 'lung carcinoma from SPOKE knowledge graph'}, page_content='lung carcinoma'), 3.0049264942641485e-13)]
+[(Document(metadata={'source': 'estrogen-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='estrogen-receptor negative breast cancer'), 3.0948168832332923e-13)]
+question: Out of the given list, which Gene is associated with lung carcinoma and lung adenocarcinoma. Given list is:  RP1, RBFOX1,  TP53,  PRKAG2, TERT
+entities: ['lung carcinoma', 'lung adenocarcinoma']
+[(Document(metadata={'source': 'lung carcinoma from SPOKE knowledge graph'}, page_content='lung carcinoma'), 3.0049264942641485e-13)]
+[(Document(metadata={'source': 'lung adenocarcinoma from SPOKE knowledge graph'}, page_content='lung adenocarcinoma'), 2.7552293129298744e-13)]
+question: Out of the given list, which Gene is associated with endometrial cancer and sclerosing cholangitis. Given list is: ATXN2,  FBN1,  STAT3, ADGRG6,  ATG5
+entities: ['endometrial cancer', 'sclerosing cholangitis']
+[(Document(metadata={'source': 'endometrial cancer from SPOKE knowledge graph'}, page_content='endometrial cancer'), 3.146884608364736e-13)]
+[(Document(metadata={'source': 'sclerosing cholangitis from SPOKE knowledge graph'}, page_content='sclerosing cholangitis'), 2.5141390705418765e-13)]
+question: Out of the given list, which Gene is associated with uveal melanoma and liver cirrhosis. Given list is:  PRX, CACNA2D1, GTF2I,  ADGRV1,  TERT
+entities: ['uveal melanoma', 'liver cirrhosis']
+[(Document(metadata={'source': 'uveal melanoma from SPOKE knowledge graph'}, page_content='uveal melanoma'), 3.2993193680580513e-13)]
+[(Document(metadata={'source': 'liver cirrhosis from SPOKE knowledge graph'}, page_content='liver cirrhosis'), 3.104990223268267e-13)]
+question: Out of the given list, which Gene is associated with uveal melanoma and head and neck cancer. Given list is:  USHBP1,  BARD1, GNE, CACNA2D1,  SAMM50
+entities: ['uveal melanoma', 'head and neck cancer']
+[(Document(metadata={'source': 'uveal melanoma from SPOKE knowledge graph'}, page_content='uveal melanoma'), 3.2993193680580513e-13)]
+[(Document(metadata={'source': 'head and neck cancer from SPOKE knowledge graph'}, page_content='head and neck cancer'), 2.1265270360587563e-13)]
+question: Out of the given list, which Gene is associated with gastric fundus cancer and duodenal ulcer. Given list is:  GSDMB, PSCA, CDKAL1,  EML4,  ADH1B
+entities: ['gastric fundus cancer', 'duodenal ulcer']
+[(Document(metadata={'source': 'gastric fundus cancer from SPOKE knowledge graph'}, page_content='gastric fundus cancer'), 3.535820182649918e-13)]
+[(Document(metadata={'source': 'duodenal ulcer from SPOKE knowledge graph'}, page_content='duodenal ulcer'), 2.9266910075986807e-13)]
+question: Out of the given list, which Gene is associated with gastric fundus cancer and atrophic gastritis. Given list is: PSCA,  PLG, IL23R,  ABO,  RP1
+entities: ['gastric fundus cancer', 'atrophic gastritis']
+[(Document(metadata={'source': 'gastric fundus cancer from SPOKE knowledge graph'}, page_content='gastric fundus cancer'), 3.535820182649918e-13)]
+[(Document(metadata={'source': 'atrophic gastritis from SPOKE knowledge graph'}, page_content='atrophic gastritis'), 3.724208441635568e-13)]
+question: Out of the given list, which Variant is associated with breast carcinoma and male breast cancer. Given list is:  rs11651755, rs9271588,  rs2472493, rs3803662,  rs4459895
+entities: ['breast carcinoma', 'male breast cancer']
+[(Document(metadata={'source': 'breast carcinoma from SPOKE knowledge graph'}, page_content='breast carcinoma'), 3.006010425386091e-13)]
+[(Document(metadata={'source': 'male breast cancer from SPOKE knowledge graph'}, page_content='male breast cancer'), 2.546067740319402e-13)]
+question: Out of the given list, which Variant is associated with abdominal aortic aneurysm and thoracic aortic aneurysm. Given list is:  rs11675342, rs595244, rs3018362,  rs11651755,  rs1709393
+entities: ['abdominal aortic aneurysm', 'thoracic aortic aneurysm']
+[(Document(metadata={'source': 'abdominal aortic aneurysm from SPOKE knowledge graph'}, page_content='abdominal aortic aneurysm'), 3.0086537102826105e-13)]
+[(Document(metadata={'source': 'thoracic aortic aneurysm from SPOKE knowledge graph'}, page_content='thoracic aortic aneurysm'), 3.32456881035198e-13)]
+question: Out of the given list, which Variant is associated with Kawasaki disease and inflammatory bowel disease. Given list is: rs573872,  rs2072499,  rs1333040, rs1801274,  rs3757318
+entities: ['Kawasaki disease', 'inflammatory bowel disease']
+[(Document(metadata={'source': 'Kawasaki disease from SPOKE knowledge graph'}, page_content='Kawasaki disease'), 2.500913430340812e-13)]
+[(Document(metadata={'source': 'inflammatory bowel disease from SPOKE knowledge graph'}, page_content='inflammatory bowel disease'), 3.243541503092362e-13)]
+question: Out of the given list, which Variant is associated with inflammatory bowel disease and Kawasaki disease. Given list is: rs3764147, rs1801274,  rs3814113,  rs479844,  rs13141641
+entities: ['inflammatory bowel disease', 'Kawasaki disease']
+[(Document(metadata={'source': 'inflammatory bowel disease from SPOKE knowledge graph'}, page_content='inflammatory bowel disease'), 3.243541503092362e-13)]
+[(Document(metadata={'source': 'Kawasaki disease from SPOKE knowledge graph'}, page_content='Kawasaki disease'), 2.500913430340812e-13)]
+question: Out of the given list, which Variant is associated with triple-receptor negative breast cancer and uterine fibroid. Given list is:  rs4459895,  rs8176719, rs115879499, rs78378222,  rs2143571
+entities: ['triple-receptor negative breast cancer', 'uterine fibroid']
+[(Document(metadata={'source': 'triple-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='triple-receptor negative breast cancer'), 3.1195402164230224e-13)]
+[(Document(metadata={'source': 'uterine fibroid from SPOKE knowledge graph'}, page_content='uterine fibroid'), 2.5864239135836575e-13)]
+question: Out of the given list, which Variant is associated with vitiligo and rheumatoid arthritis. Given list is: rs12203592,  rs10103692,  rs78378222, rs2476601,  rs1150757
+entities: ['vitiligo', 'rheumatoid arthritis']
+[(Document(metadata={'source': 'vitiligo from SPOKE knowledge graph'}, page_content='vitiligo'), 2.505096011271718e-13)]
+[(Document(metadata={'source': 'rheumatoid arthritis from SPOKE knowledge graph'}, page_content='rheumatoid arthritis'), 2.938967157747191e-13)]
+question: Out of the given list, which Variant is associated with male breast cancer and breast carcinoma. Given list is: rs3803662,  rs34574566,  rs1278769, rs16948876,  rs10488631
+entities: ['male breast cancer', 'breast carcinoma']
+[(Document(metadata={'source': 'male breast cancer from SPOKE knowledge graph'}, page_content='male breast cancer'), 2.546067740319402e-13)]
+[(Document(metadata={'source': 'breast carcinoma from SPOKE knowledge graph'}, page_content='breast carcinoma'), 3.006010425386091e-13)]
+question: Out of the given list, which Variant is associated with autoimmune hepatitis and collagenous colitis. Given list is: rs17398575,  rs1975197, rs2187668,  rs6444305,  rs2230199
+entities: ['autoimmune hepatitis', 'collagenous colitis']
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+[(Document(metadata={'source': 'collagenous colitis from SPOKE knowledge graph'}, page_content='collagenous colitis'), 5.195399232355014e-13)]
+question: Out of the given list, which Variant is associated with autoimmune hepatitis and cutaneous lupus erythematosus. Given list is: rs2187668, rs11724804,  rs10497394,  rs1801274,  rs6457327
+entities: ['autoimmune hepatitis', 'cutaneous lupus erythematosus']
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+[(Document(metadata={'source': 'cutaneous lupus erythematosus from SPOKE knowledge graph'}, page_content='cutaneous lupus erythematosus'), 2.9584321104003664e-13)]
+question: Out of the given list, which Variant is associated with ankylosing spondylitis and Crohn's disease. Given list is:  rs219780, rs11209026,  rs1233491, rs1953126,  rs2294008
+entities: ['ankylosing spondylitis', "Crohn's disease"]
+[(Document(metadata={'source': 'ankylosing spondylitis from SPOKE knowledge graph'}, page_content='ankylosing spondylitis'), 2.9496180888391454e-13)]
+[(Document(metadata={'source': "Crohn's disease from SPOKE knowledge graph"}, page_content="Crohn's disease"), 3.106973229041743e-13)]
+question: Out of the given list, which Variant is associated with rheumatoid arthritis and vitiligo. Given list is:  rs7176508,  rs11675342,  rs3018362, rs6426833, rs2476601
+entities: ['rheumatoid arthritis', 'vitiligo']
+[(Document(metadata={'source': 'rheumatoid arthritis from SPOKE knowledge graph'}, page_content='rheumatoid arthritis'), 2.938967157747191e-13)]
+[(Document(metadata={'source': 'vitiligo from SPOKE knowledge graph'}, page_content='vitiligo'), 2.505096011271718e-13)]
+question: Out of the given list, which Variant is associated with collagenous colitis and autoimmune hepatitis. Given list is: rs2187668,  rs6426833, rs6969780,  rs3787184,  rs230540
+entities: ['collagenous colitis', 'autoimmune hepatitis']
+[(Document(metadata={'source': 'collagenous colitis from SPOKE knowledge graph'}, page_content='collagenous colitis'), 5.195399232355014e-13)]
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+question: Out of the given list, which Variant is associated with collagenous colitis and cutaneous lupus erythematosus. Given list is: rs2187668, rs975730,  rs17398575,  rs229527,  rs1537377
+entities: ['collagenous colitis', 'cutaneous lupus erythematosus']
+[(Document(metadata={'source': 'collagenous colitis from SPOKE knowledge graph'}, page_content='collagenous colitis'), 5.195399232355014e-13)]
+[(Document(metadata={'source': 'cutaneous lupus erythematosus from SPOKE knowledge graph'}, page_content='cutaneous lupus erythematosus'), 2.9584321104003664e-13)]
+question: Out of the given list, which Variant is associated with age related macular degeneration and Kuhnt-Junius degeneration. Given list is:  rs7579899, rs3803662,  rs76972608, rs10490924,  rs16948876
+entities: ['age related macular degeneration', 'Kuhnt-Junius degeneration']
+[(Document(metadata={'source': 'age related macular degeneration from SPOKE knowledge graph'}, page_content='age related macular degeneration'), 2.9678118144450816e-13)]
+[(Document(metadata={'source': 'Mayer-Rokitansky-Kuster-Hauser syndrome from SPOKE knowledge graph'}, page_content='Mayer-Rokitansky-Kuster-Hauser syndrome'), 1.176513433456421)]
+question: Out of the given list, which Variant is associated with Kuhnt-Junius degeneration and age related macular degeneration. Given list is:  rs219780,  rs3197999,  rs4072037, rs6691768, rs10490924
+entities: ['Kuhnt-Junius degeneration', 'age related macular degeneration']
+[(Document(metadata={'source': 'Mayer-Rokitansky-Kuster-Hauser syndrome from SPOKE knowledge graph'}, page_content='Mayer-Rokitansky-Kuster-Hauser syndrome'), 1.176513433456421)]
+[(Document(metadata={'source': 'age related macular degeneration from SPOKE knowledge graph'}, page_content='age related macular degeneration'), 2.9678118144450816e-13)]
+question: Out of the given list, which Variant is associated with duodenal ulcer and atrophic gastritis. Given list is:  rs1975197, rs2294008,  rs17398575, rs755383,  rs1801274
+entities: ['duodenal ulcer', 'atrophic gastritis']
+[(Document(metadata={'source': 'duodenal ulcer from SPOKE knowledge graph'}, page_content='duodenal ulcer'), 2.9266910075986807e-13)]
+[(Document(metadata={'source': 'atrophic gastritis from SPOKE knowledge graph'}, page_content='atrophic gastritis'), 3.724208441635568e-13)]
+question: Out of the given list, which Variant is associated with duodenal ulcer and gastric fundus cancer. Given list is: rs2294008,  rs10490924,  rs2738048, rs711830,  rs167479
+entities: ['duodenal ulcer', 'gastric fundus cancer']
+[(Document(metadata={'source': 'duodenal ulcer from SPOKE knowledge graph'}, page_content='duodenal ulcer'), 2.9266910075986807e-13)]
+[(Document(metadata={'source': 'gastric fundus cancer from SPOKE knowledge graph'}, page_content='gastric fundus cancer'), 3.535820182649918e-13)]
+question: Out of the given list, which Variant is associated with uterine fibroid and triple-receptor negative breast cancer. Given list is: rs1709393,  rs3118470,  rs1107345, rs78378222,  rs1122171
+entities: ['uterine fibroid', 'triple-receptor negative breast cancer']
+[(Document(metadata={'source': 'uterine fibroid from SPOKE knowledge graph'}, page_content='uterine fibroid'), 2.5864239135836575e-13)]
+[(Document(metadata={'source': 'triple-receptor negative breast cancer from SPOKE knowledge graph'}, page_content='triple-receptor negative breast cancer'), 3.1195402164230224e-13)]
+question: Out of the given list, which Variant is associated with prostate carcinoma and large intestine cancer. Given list is: rs6983267,  rs1150757,  rs3129939, rs12917707,  rs595244
+entities: ['prostate carcinoma', 'large intestine cancer']
+[(Document(metadata={'source': 'prostate carcinoma from SPOKE knowledge graph'}, page_content='prostate carcinoma'), 4.0776491341473764e-13)]
+[(Document(metadata={'source': 'large intestine cancer from SPOKE knowledge graph'}, page_content='large intestine cancer'), 2.2110636347001666e-13)]
+question: Out of the given list, which Variant is associated with squamous cell carcinoma and androgenic alopecia. Given list is:  rs10455872, rs1011970,  rs3814113, rs12203592,  rs116264669
+entities: ['squamous cell carcinoma', 'androgenic alopecia']
+[(Document(metadata={'source': 'squamous cell carcinoma from SPOKE knowledge graph'}, page_content='squamous cell carcinoma'), 4.3875471832099944e-13)]
+[(Document(metadata={'source': 'androgenic alopecia from SPOKE knowledge graph'}, page_content='androgenic alopecia'), 3.244173321908378e-13)]
+question: Out of the given list, which Variant is associated with androgenic alopecia and squamous cell carcinoma. Given list is:  rs10273639,  rs334, rs595244,  rs6457327, rs12203592
+entities: ['androgenic alopecia', 'squamous cell carcinoma']
+[(Document(metadata={'source': 'androgenic alopecia from SPOKE knowledge graph'}, page_content='androgenic alopecia'), 3.244173321908378e-13)]
+[(Document(metadata={'source': 'squamous cell carcinoma from SPOKE knowledge graph'}, page_content='squamous cell carcinoma'), 4.3875471832099944e-13)]
+question: Out of the given list, which Variant is associated with sclerosing cholangitis and Crohn's disease. Given list is: rs3197999,  rs59325236,  rs6444305, rs1122171,  rs1314913
+entities: ['sclerosing cholangitis', "Crohn's disease"]
+[(Document(metadata={'source': 'sclerosing cholangitis from SPOKE knowledge graph'}, page_content='sclerosing cholangitis'), 2.5141390705418765e-13)]
+[(Document(metadata={'source': "Crohn's disease from SPOKE knowledge graph"}, page_content="Crohn's disease"), 3.106973229041743e-13)]
+question: Out of the given list, which Variant is associated with large intestine cancer and prostate carcinoma. Given list is: rs1107345,  rs59325236,  rs12203592, rs6983267,  rs11675342
+entities: ['large intestine cancer', 'prostate carcinoma']
+[(Document(metadata={'source': 'large intestine cancer from SPOKE knowledge graph'}, page_content='large intestine cancer'), 2.2110636347001666e-13)]
+[(Document(metadata={'source': 'prostate carcinoma from SPOKE knowledge graph'}, page_content='prostate carcinoma'), 4.0776491341473764e-13)]
+question: Out of the given list, which Variant is associated with atrophic gastritis and duodenal ulcer. Given list is:  rs4459895,  rs12203592,  rs9275260, rs12524487, rs2294008
+entities: ['atrophic gastritis', 'duodenal ulcer']
+[(Document(metadata={'source': 'atrophic gastritis from SPOKE knowledge graph'}, page_content='atrophic gastritis'), 3.724208441635568e-13)]
+[(Document(metadata={'source': 'duodenal ulcer from SPOKE knowledge graph'}, page_content='duodenal ulcer'), 2.9266910075986807e-13)]
+question: Out of the given list, which Variant is associated with atrophic gastritis and gastric fundus cancer. Given list is: rs2294008,  rs9257809,  rs35705950, rs12539707,  rs2738048
+entities: ['atrophic gastritis', 'gastric fundus cancer']
+[(Document(metadata={'source': 'atrophic gastritis from SPOKE knowledge graph'}, page_content='atrophic gastritis'), 3.724208441635568e-13)]
+[(Document(metadata={'source': 'gastric fundus cancer from SPOKE knowledge graph'}, page_content='gastric fundus cancer'), 3.535820182649918e-13)]
+question: Out of the given list, which Variant is associated with cutaneous lupus erythematosus and autoimmune hepatitis. Given list is: rs1937450, rs2187668,  rs6010620,  rs2231142,  rs10455872
+entities: ['cutaneous lupus erythematosus', 'autoimmune hepatitis']
+[(Document(metadata={'source': 'cutaneous lupus erythematosus from SPOKE knowledge graph'}, page_content='cutaneous lupus erythematosus'), 2.9584321104003664e-13)]
+[(Document(metadata={'source': 'autoimmune hepatitis from SPOKE knowledge graph'}, page_content='autoimmune hepatitis'), 3.522291778992187e-13)]
+question: Out of the given list, which Variant is associated with cutaneous lupus erythematosus and collagenous colitis. Given list is:  rs4939827,  rs3197999,  rs3739821, rs2187668, rs1975197
+entities: ['cutaneous lupus erythematosus', 'collagenous colitis']
+[(Document(metadata={'source': 'cutaneous lupus erythematosus from SPOKE knowledge graph'}, page_content='cutaneous lupus erythematosus'), 2.9584321104003664e-13)]
+[(Document(metadata={'source': 'collagenous colitis from SPOKE knowledge graph'}, page_content='collagenous colitis'), 5.195399232355014e-13)]
+question: Out of the given list, which Variant is associated with central nervous system cancer and lung adenocarcinoma. Given list is: rs7426056, rs2736100,  rs2187668,  rs2107595,  rs7405776
+entities: ['central nervous system cancer', 'lung adenocarcinoma']
+[(Document(metadata={'source': 'central nervous system cancer from SPOKE knowledge graph'}, page_content='central nervous system cancer'), 3.037214577061853e-13)]
+[(Document(metadata={'source': 'lung adenocarcinoma from SPOKE knowledge graph'}, page_content='lung adenocarcinoma'), 2.7552293129298744e-13)]
+question: Out of the given list, which Variant is associated with thoracic aortic aneurysm and abdominal aortic aneurysm. Given list is: rs1642764, rs595244,  rs139606545,  rs12077210,  rs12917707
+entities: ['thoracic aortic aneurysm', 'abdominal aortic aneurysm']
+[(Document(metadata={'source': 'thoracic aortic aneurysm from SPOKE knowledge graph'}, page_content='thoracic aortic aneurysm'), 3.32456881035198e-13)]
+[(Document(metadata={'source': 'abdominal aortic aneurysm from SPOKE knowledge graph'}, page_content='abdominal aortic aneurysm'), 3.0086537102826105e-13)]
+question: Out of the given list, which Variant is associated with Crohn's disease and ankylosing spondylitis. Given list is:  rs8077245,  rs11712066, rs11209026,  rs10830962, rs6010620
+entities: ["Crohn's disease", 'ankylosing spondylitis']
+[(Document(metadata={'source': "Crohn's disease from SPOKE knowledge graph"}, page_content="Crohn's disease"), 3.106973229041743e-13)]
+[(Document(metadata={'source': 'ankylosing spondylitis from SPOKE knowledge graph'}, page_content='ankylosing spondylitis'), 2.9496180888391454e-13)]
+question: Out of the given list, which Variant is associated with Crohn's disease and sclerosing cholangitis. Given list is:  rs1047891,  rs9268905, rs3197999,  rs1025128, rs4624820
+entities: ["Crohn's disease", 'sclerosing cholangitis']
+[(Document(metadata={'source': "Crohn's disease from SPOKE knowledge graph"}, page_content="Crohn's disease"), 3.106973229041743e-13)]
+[(Document(metadata={'source': 'sclerosing cholangitis from SPOKE knowledge graph'}, page_content='sclerosing cholangitis'), 2.5141390705418765e-13)]
+question: Out of the given list, which Variant is associated with lung adenocarcinoma and central nervous system cancer. Given list is:  rs10490924,  rs10830962, rs2736100, rs2391769,  rs9272143
+entities: ['lung adenocarcinoma', 'central nervous system cancer']
+[(Document(metadata={'source': 'lung adenocarcinoma from SPOKE knowledge graph'}, page_content='lung adenocarcinoma'), 2.7552293129298744e-13)]
+[(Document(metadata={'source': 'central nervous system cancer from SPOKE knowledge graph'}, page_content='central nervous system cancer'), 3.037214577061853e-13)]
+question: Out of the given list, which Variant is associated with gastric fundus cancer and duodenal ulcer. Given list is:  rs11759064, rs975730,  rs1150757, rs2294008,  rs7453920
+entities: ['gastric fundus cancer', 'duodenal ulcer']
+[(Document(metadata={'source': 'gastric fundus cancer from SPOKE knowledge graph'}, page_content='gastric fundus cancer'), 3.535820182649918e-13)]
+[(Document(metadata={'source': 'duodenal ulcer from SPOKE knowledge graph'}, page_content='duodenal ulcer'), 2.9266910075986807e-13)]
+question: Out of the given list, which Variant is associated with gastric fundus cancer and atrophic gastritis. Given list is: rs2294008,  rs2072499,  rs3197999, rs1537377,  rs988958
+entities: ['gastric fundus cancer', 'atrophic gastritis']
+[(Document(metadata={'source': 'gastric fundus cancer from SPOKE knowledge graph'}, page_content='gastric fundus cancer'), 3.535820182649918e-13)]
+[(Document(metadata={'source': 'atrophic gastritis from SPOKE knowledge graph'}, page_content='atrophic gastritis'), 3.724208441635568e-13)]
+question: Out of the given list, which Variant is associated with keratinocyte carcinoma"@e and skin sensitivity to sun. Given list is:  rs254020,  rs4625, rs6059655, rs11738191,  rs2963222
+entities: ['keratinocyte carcinoma', 'skin sensitivity to sun']
+[(Document(metadata={'source': 'keratosis from SPOKE knowledge graph'}, page_content='keratosis'), 0.5552615523338318)]
+[(Document(metadata={'source': 'UV-sensitive syndrome from SPOKE knowledge graph'}, page_content='UV-sensitive syndrome'), 0.8926857709884644)]
+question: Out of the given list, which Variant is associated with keratinocyte carcinoma"@e and anti-neutrophil antibody associated vasculitis. Given list is: rs6679677,  rs12187903, rs1333047,  rs11585651,  rs55730499
+entities: ['keratinocyte carcinoma', 'vasculitis']
+[(Document(metadata={'source': 'keratosis from SPOKE knowledge graph'}, page_content='keratosis'), 0.5552615523338318)]
+[(Document(metadata={'source': 'vasculitis from SPOKE knowledge graph'}, page_content='vasculitis'), 2.573200712837481e-13)]
+question: Out of the given list, which Variant is associated with keratinocyte carcinoma"@e and autoimmune disease. Given list is: rs7936312,  rs325485,  rs13191786, rs72928038,  rs7523907
+entities: ['keratinocyte carcinoma', 'autoimmune disease']
+[(Document(metadata={'source': 'keratosis from SPOKE knowledge graph'}, page_content='keratosis'), 0.5552615523338318)]
+[(Document(metadata={'source': 'autoimmune disease from SPOKE knowledge graph'}, page_content='autoimmune disease'), 3.1556812826911973e-13)]
+question: Out of the given list, which Variant is associated with keratinocyte carcinoma"@e and age-related hearing impairment. Given list is: rs1950829,  rs13263709, rs1126809,  rs34871267,  rs2431108
+entities: ['keratinocyte carcinoma', 'age-related hearing impairment']
+[(Document(metadata={'source': 'keratosis from SPOKE knowledge graph'}, page_content='keratosis'), 0.5552615523338318)]
+[(Document(metadata={'source': 'autosomal recessive nonsyndromic deafness 30 from SPOKE knowledge graph'}, page_content='autosomal recessive nonsyndromic deafness 30'), 0.8808005452156067)]
+question: Out of the given list, which Variant is associated with aortic stenosis and large artery stroke. Given list is:  rs34243448, rs1893592,  rs1765871,  rs229541, rs10455872
+entities: ['aortic stenosis', 'large artery stroke']
+[(Document(metadata={'source': 'aortic valve stenosis from SPOKE knowledge graph'}, page_content='aortic valve stenosis'), 0.17880898714065552)]
+[(Document(metadata={'source': 'artery disease from SPOKE knowledge graph'}, page_content='artery disease'), 0.6863577365875244)]
+question: Out of the given list, which Variant is associated with skin sensitivity to sun and keratinocyte carcinoma"@e. Given list is:  rs1042704, rs6059655,  rs34396849, rs10052804,  rs11747125
+entities: ['keratinocyte carcinoma']
+[(Document(metadata={'source': 'keratosis from SPOKE knowledge graph'}, page_content='keratosis'), 0.5552615523338318)]
+question: Out of the given list, which Variant is associated with skin sensitivity to sun and age-related hearing impairment. Given list is:  rs61815704, rs4149909,  rs36001488,  rs1333047, rs1126809
+entities: ['age-related hearing impairment']
+[(Document(metadata={'source': 'autosomal recessive nonsyndromic deafness 30 from SPOKE knowledge graph'}, page_content='autosomal recessive nonsyndromic deafness 30'), 0.8808005452156067)]
+question: Out of the given list, which Variant is associated with anti-neutrophil antibody associated vasculitis and keratinocyte carcinoma"@e. Given list is: rs2812378,  rs17145188,  rs12931267, rs6679677,  rs12413409
+entities: ['vasculitis', 'keratinocyte carcinoma']
+[(Document(metadata={'source': 'vasculitis from SPOKE knowledge graph'}, page_content='vasculitis'), 2.573200712837481e-13)]
+[(Document(metadata={'source': 'keratosis from SPOKE knowledge graph'}, page_content='keratosis'), 0.5552615523338318)]
+question: Out of the given list, which Variant is associated with anti-neutrophil antibody associated vasculitis and autoimmune disease. Given list is:  rs17293632,  rs2487928, rs429358,  rs6679677, rs6679677
+entities: ['anti-neutrophil antibody associated vasculitis', 'autoimmune disease']
+[(Document(metadata={'source': 'immunodeficiency 73a with defective neutrophil chemotaxis and leukocytosis from SPOKE knowledge graph'}, page_content='immunodeficiency 73a with defective neutrophil chemotaxis and leukocytosis'), 0.8846723437309265)]
+[(Document(metadata={'source': 'autoimmune disease from SPOKE knowledge graph'}, page_content='autoimmune disease'), 3.1556812826911973e-13)]
+question: Out of the given list, which Variant is associated with autoimmune disease and keratinocyte carcinoma"@e. Given list is:  rs259919, rs10455872,  rs11958220, rs72928038,  rs141343442
+entities: ['autoimmune disease', 'keratinocyte carcinoma']
+[(Document(metadata={'source': 'autoimmune disease from SPOKE knowledge graph'}, page_content='autoimmune disease'), 3.1556812826911973e-13)]
+[(Document(metadata={'source': 'keratosis from SPOKE knowledge graph'}, page_content='keratosis'), 0.5552615523338318)]
+question: Out of the given list, which Variant is associated with autoimmune disease and anti-neutrophil antibody associated vasculitis. Given list is: rs2310752,  rs7528604, rs6679677,  rs34691223,  rs2963222
+entities: ['autoimmune disease', 'anti-neutrophil antibody associated vasculitis']
+[(Document(metadata={'source': 'autoimmune disease from SPOKE knowledge graph'}, page_content='autoimmune disease'), 3.1556812826911973e-13)]
+[(Document(metadata={'source': 'immunodeficiency 73a with defective neutrophil chemotaxis and leukocytosis from SPOKE knowledge graph'}, page_content='immunodeficiency 73a with defective neutrophil chemotaxis and leukocytosis'), 0.8846723437309265)]
+question: Out of the given list, which Variant is associated with autoimmune disease and atopic asthma. Given list is: rs62324212,  rs10059133,  rs149943,  rs12931267, rs17156671
+entities: ['autoimmune disease', 'atopic asthma']
+[(Document(metadata={'source': 'autoimmune disease from SPOKE knowledge graph'}, page_content='autoimmune disease'), 3.1556812826911973e-13)]
+[(Document(metadata={'source': 'allergic asthma from SPOKE knowledge graph'}, page_content='allergic asthma'), 0.3020552098751068)]
+question: Out of the given list, which Variant is associated with large artery stroke and aortic stenosis. Given list is: rs10455872,  rs35781323,  rs4615152, rs761934676,  rs11965538
+entities: ['large artery stroke', 'aortic stenosis']
+[(Document(metadata={'source': 'artery disease from SPOKE knowledge graph'}, page_content='artery disease'), 0.6863577365875244)]
+[(Document(metadata={'source': 'aortic valve stenosis from SPOKE knowledge graph'}, page_content='aortic valve stenosis'), 0.17880898714065552)]
+question: Out of the given list, which Variant is associated with age-related hearing impairment and keratinocyte carcinoma"@e. Given list is:  rs259919, rs2503199,  rs325485, rs1126809,  rs229541
+entities: ['age-related hearing impairment', 'keratinocyte carcinoma']
+[(Document(metadata={'source': 'autosomal recessive nonsyndromic deafness 30 from SPOKE knowledge graph'}, page_content='autosomal recessive nonsyndromic deafness 30'), 0.8808005452156067)]
+[(Document(metadata={'source': 'keratosis from SPOKE knowledge graph'}, page_content='keratosis'), 0.5552615523338318)]
+question: Out of the given list, which Variant is associated with age-related hearing impairment and skin sensitivity to sun. Given list is: rs1126809,  rs416223, rs12722502,  rs9419958,  rs1333049
+entities: ['age-related hearing impairment', 'skin sensitivity to sun']
+[(Document(metadata={'source': 'autosomal recessive nonsyndromic deafness 30 from SPOKE knowledge graph'}, page_content='autosomal recessive nonsyndromic deafness 30'), 0.8808005452156067)]
+[(Document(metadata={'source': 'UV-sensitive syndrome from SPOKE knowledge graph'}, page_content='UV-sensitive syndrome'), 0.8926857709884644)]
+question: Out of the given list, which Variant is associated with atopic asthma and autoimmune disease. Given list is: rs2447827,  rs1937455, rs62324212,  rs12205199,  rs4482879
+entities: ['atopic asthma', 'autoimmune disease']
+[(Document(metadata={'source': 'allergic asthma from SPOKE knowledge graph'}, page_content='allergic asthma'), 0.3020552098751068)]
+[(Document(metadata={'source': 'autoimmune disease from SPOKE knowledge graph'}, page_content='autoimmune disease'), 3.1556812826911973e-13)]
+Save the model outputs in  data/assignment_results/gemini_1.5_flash_kg_rag_based_mcq_0.csv
+Completed in 61.914964294433595 min
